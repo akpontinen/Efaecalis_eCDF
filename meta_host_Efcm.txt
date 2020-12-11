@@ -1,0 +1,1645 @@
+strain.id	host
+ERR2778261_1	Hospitalised patient
+ERR2778262_1	Hospitalised patient
+ERR2778263_1	Other
+ERR2778264_1	Other
+ERR2778265_1	Other
+ERR2778266_1	Hospitalised patient
+ERR2778267_1	Hospitalised patient
+ERR2778268_1	Hospitalised patient
+ERR2778269_1	Other
+ERR2778270_1	Hospitalised patient
+ERR2778271_1	Hospitalised patient
+ERR2778272_1	Other
+ERR2778273_1	Hospitalised patient
+ERR2778274_1	Hospitalised patient
+ERR2778275_1	Other
+ERR2778276_1	Other
+ERR2778277_1	Hospitalised patient
+ERR2778278_1	Hospitalised patient
+ERR2778279_1	Hospitalised patient
+ERR2778280_1	Hospitalised patient
+ERR2778281_1	Hospitalised patient
+ERR2778282_1	Hospitalised patient
+ERR2778283_1	Hospitalised patient
+ERR2778284_1	Hospitalised patient
+ERR2778285_1	Other
+ERR2778286_1	Hospitalised patient
+ERR2778287_1	Hospitalised patient
+ERR2778288_1	Hospitalised patient
+ERR2778289_1	Other
+ERR2778290_1	Hospitalised patient
+ERR2778291_1	Hospitalised patient
+ERR2778292_1	Hospitalised patient
+ERR2778293_1	Hospitalised patient
+ERR2778294_1	Non-hospitalised person
+ERR2778295_1	Hospitalised patient
+ERR2778296_1	Hospitalised patient
+ERR2778297_1	Hospitalised patient
+ERR2778298_1	Hospitalised patient
+ERR2778299_1	Hospitalised patient
+ERR2778300_1	Hospitalised patient
+ERR2778301_1	Hospitalised patient
+ERR2778302_1	Hospitalised patient
+ERR2778303_1	Hospitalised patient
+ERR2778304_1	Other
+ERR2778305_1	Hospitalised patient
+ERR2778306_1	Non-hospitalised person
+ERR2778307_1	Hospitalised patient
+ERR2778308_1	Hospitalised patient
+ERR2778309_1	Other
+ERR2778310_1	Hospitalised patient
+ERR2778311_1	Other
+ERR2778312_1	Other
+ERR2778313_1	Non-hospitalised person
+ERR2778314_1	Other
+ERR2778315_1	Other
+ERR2778316_1	Hospitalised patient
+ERR2778317_1	Hospitalised patient
+ERR2778318_1	Hospitalised patient
+ERR2778319_1	Non-hospitalised person
+ERR2778320_1	Hospitalised patient
+ERR2778321_1	Non-hospitalised person
+ERR2778322_1	Hospitalised patient
+ERR2778323_1	Hospitalised patient
+ERR2778324_1	Hospitalised patient
+ERR2778325_1	Other
+ERR2778326_1	Hospitalised patient
+ERR2778327_1	Hospitalised patient
+ERR2778328_1	Hospitalised patient
+ERR2778329_1	Non-hospitalised person
+ERR2778330_1	Hospitalised patient
+ERR2778331_1	Other
+ERR2778332_1	Hospitalised patient
+ERR2778333_1	Other
+ERR2778334_1	Hospitalised patient
+ERR2778335_1	Other
+ERR2778336_1	Hospitalised patient
+ERR2778337_1	Other
+ERR2778338_1	Hospitalised patient
+ERR2778339_1	Hospitalised patient
+ERR2778340_1	Hospitalised patient
+ERR2778341_1	Non-hospitalised person
+ERR2778342_1	Hospitalised patient
+ERR2778343_1	Other
+ERR2778344_1	Hospitalised patient
+ERR2778345_1	Other
+ERR2778346_1	Other
+ERR2778347_1	Hospitalised patient
+ERR2778348_1	Hospitalised patient
+ERR2778349_1	Hospitalised patient
+ERR2778350_1	Hospitalised patient
+ERR2778351_1	Hospitalised patient
+ERR2778352_1	Other
+ERR2778353_1	Hospitalised patient
+ERR2778354_1	Hospitalised patient
+ERR2778355_1	Hospitalised patient
+ERR2778356_1	Other
+ERR2778357_1	Hospitalised patient
+ERR2778358_1	Hospitalised patient
+ERR2778359_1	Other
+ERR2778360_1	Other
+ERR2778361_1	Hospitalised patient
+ERR2778362_1	Non-hospitalised person
+ERR2778363_1	Other
+ERR2778364_1	Hospitalised patient
+ERR2778365_1	Hospitalised patient
+ERR2778366_1	Hospitalised patient
+ERR2778367_1	Hospitalised patient
+ERR2778368_1	Hospitalised patient
+ERR2778369_1	Hospitalised patient
+ERR2778370_1	Other
+ERR2778371_1	Non-hospitalised person
+ERR2778372_1	Other
+ERR2778373_1	Hospitalised patient
+ERR2778374_1	Hospitalised patient
+ERR2778375_1	Hospitalised patient
+ERR2778376_1	Hospitalised patient
+ERR2778377_1	Hospitalised patient
+ERR2778378_1	Hospitalised patient
+ERR2778379_1	Hospitalised patient
+ERR2778380_1	Other
+ERR2778381_1	Hospitalised patient
+ERR2778382_1	Hospitalised patient
+ERR2778383_1	Hospitalised patient
+ERR2778384_1	Other
+ERR2778385_1	Hospitalised patient
+ERR2778386_1	Hospitalised patient
+ERR2778387_1	Non-hospitalised person
+ERR2778388_1	Other
+ERR2778389_1	Other
+ERR2778390_1	Hospitalised patient
+ERR2778391_1	Other
+ERR2778392_1	Hospitalised patient
+ERR2778393_1	Hospitalised patient
+ERR2778394_1	Hospitalised patient
+ERR2778395_1	Other
+ERR2778396_1	Hospitalised patient
+ERR2778397_1	Hospitalised patient
+ERR2778398_1	Hospitalised patient
+ERR2778399_1	Hospitalised patient
+ERR2778400_1	Hospitalised patient
+ERR2778401_1	Other
+ERR2778402_1	Hospitalised patient
+ERR2778403_1	Other
+ERR2778404_1	Hospitalised patient
+ERR2778405_1	Hospitalised patient
+ERR2778406_1	Hospitalised patient
+ERR2778407_1	Hospitalised patient
+ERR2778408_1	Hospitalised patient
+ERR2778409_1	Other
+ERR2778410_1	Hospitalised patient
+ERR2778411_1	Hospitalised patient
+ERR2778412_1	Other
+ERR2778413_1	Other
+ERR2778414_1	Hospitalised patient
+ERR2778415_1	Hospitalised patient
+ERR2778416_1	Hospitalised patient
+ERR2778417_1	Hospitalised patient
+ERR2778418_1	Hospitalised patient
+ERR2778419_1	Hospitalised patient
+ERR2778420_1	Other
+ERR2778421_1	Hospitalised patient
+ERR2778422_1	Hospitalised patient
+ERR2778423_1	Other
+ERR2778424_1	Hospitalised patient
+ERR2778425_1	Hospitalised patient
+ERR2778426_1	Hospitalised patient
+ERR2778427_1	Hospitalised patient
+ERR2778428_1	Other
+ERR2778429_1	Hospitalised patient
+ERR2778430_1	Other
+ERR2778431_1	Other
+ERR2778432_1	Other
+ERR2778433_1	Hospitalised patient
+ERR2778434_1	Hospitalised patient
+ERR2778435_1	Hospitalised patient
+ERR2778436_1	Hospitalised patient
+ERR2778437_1	Hospitalised patient
+ERR2778438_1	Other
+ERR2778439_1	Hospitalised patient
+ERR2778440_1	Hospitalised patient
+ERR2778441_1	Other
+ERR2778442_1	Hospitalised patient
+ERR2778443_1	Non-hospitalised person
+ERR2778444_1	Non-hospitalised person
+ERR2778445_1	Other
+ERR2778446_1	Other
+ERR2778447_1	Hospitalised patient
+ERR2778448_1	Hospitalised patient
+ERR2778449_1	Hospitalised patient
+ERR2778450_1	Other
+ERR2778451_1	Non-hospitalised person
+ERR2778452_1	Other
+ERR2778453_1	Hospitalised patient
+ERR2778454_1	Hospitalised patient
+ERR2778455_1	Hospitalised patient
+ERR2778456_1	Hospitalised patient
+ERR2778457_1	Hospitalised patient
+ERR2778458_1	Other
+ERR2778459_1	Hospitalised patient
+ERR2778460_1	Other
+ERR2778461_1	Hospitalised patient
+ERR2778462_1	Other
+ERR2778463_1	Hospitalised patient
+ERR2778464_1	Other
+ERR2778465_1	Other
+ERR2778466_1	Non-hospitalised person
+ERR2778467_1	Hospitalised patient
+ERR2778468_1	Hospitalised patient
+ERR2778469_1	Hospitalised patient
+ERR2778470_1	Hospitalised patient
+ERR2778471_1	Hospitalised patient
+ERR2778472_1	Other
+ERR2778473_1	Hospitalised patient
+ERR2778474_1	Hospitalised patient
+ERR2778475_1	Non-hospitalised person
+ERR2778476_1	Non-hospitalised person
+ERR2778477_1	Non-hospitalised person
+ERR2778478_1	Other
+ERR2778479_1	Hospitalised patient
+ERR2778480_1	Other
+ERR2778481_1	Other
+ERR2778482_1	Hospitalised patient
+ERR2778483_1	Hospitalised patient
+ERR2778484_1	Hospitalised patient
+ERR2778485_1	Non-hospitalised person
+ERR2778486_1	Other
+ERR2778487_1	Hospitalised patient
+ERR2778488_1	Hospitalised patient
+ERR2778489_1	Hospitalised patient
+ERR2778490_1	Hospitalised patient
+ERR2778491_1	Hospitalised patient
+ERR2778492_1	Non-hospitalised person
+ERR2778493_1	Hospitalised patient
+ERR2778494_1	Other
+ERR2778495_1	Hospitalised patient
+ERR2778496_1	Hospitalised patient
+ERR2778497_1	Hospitalised patient
+ERR2778498_1	Hospitalised patient
+ERR2778499_1	Hospitalised patient
+ERR2778500_1	Hospitalised patient
+ERR2778501_1	Other
+ERR2778502_1	Non-hospitalised person
+ERR2778503_1	Other
+ERR2778504_1	Other
+ERR2778505_1	Hospitalised patient
+ERR2778506_1	Hospitalised patient
+ERR2778507_1	Hospitalised patient
+ERR2778508_1	Hospitalised patient
+ERR2778509_1	Other
+ERR2778510_1	Hospitalised patient
+ERR2778511_1	Hospitalised patient
+ERR2778512_1	Hospitalised patient
+ERR2778513_1	Other
+ERR2778514_1	Hospitalised patient
+ERR2778515_1	Other
+ERR2778516_1	Hospitalised patient
+ERR2778517_1	Hospitalised patient
+ERR2778518_1	Hospitalised patient
+ERR2778519_1	Hospitalised patient
+ERR2778520_1	Hospitalised patient
+ERR2778521_1	Other
+ERR2778522_1	Hospitalised patient
+ERR2778523_1	Hospitalised patient
+ERR2778524_1	Hospitalised patient
+ERR2778525_1	Hospitalised patient
+ERR2778526_1	Hospitalised patient
+ERR2778527_1	Hospitalised patient
+ERR2778528_1	Hospitalised patient
+ERR2778529_1	Hospitalised patient
+ERR2778530_1	Other
+ERR2778531_1	Other
+ERR2778532_1	Other
+ERR2778533_1	Other
+ERR2778534_1	Hospitalised patient
+ERR2778535_1	Hospitalised patient
+ERR2778536_1	Hospitalised patient
+ERR2778537_1	Hospitalised patient
+ERR2778538_1	Hospitalised patient
+ERR2778539_1	Non-hospitalised person
+ERR2778540_1	Hospitalised patient
+ERR2778541_1	Non-hospitalised person
+ERR2778542_1	Hospitalised patient
+ERR2778543_1	Non-hospitalised person
+ERR2778544_1	Non-hospitalised person
+ERR2778545_1	Hospitalised patient
+ERR2778546_1	Hospitalised patient
+ERR2778547_1	Hospitalised patient
+ERR2778548_1	Hospitalised patient
+ERR2778549_1	Other
+ERR2778550_1	Hospitalised patient
+ERR2778551_1	Hospitalised patient
+ERR2778552_1	Hospitalised patient
+ERR2778553_1	Hospitalised patient
+ERR2778554_1	Hospitalised patient
+ERR2778555_1	Hospitalised patient
+ERR2778556_1	Non-hospitalised person
+ERR2778557_1	Hospitalised patient
+ERR2778558_1	Other
+ERR2778559_1	Hospitalised patient
+ERR2778560_1	Hospitalised patient
+ERR2778561_1	Other
+ERR2778562_1	Other
+ERR2778563_1	Hospitalised patient
+ERR2778564_1	Hospitalised patient
+ERR2778565_1	Other
+ERR2778566_1	Hospitalised patient
+ERR2778567_1	Hospitalised patient
+ERR2778568_1	Hospitalised patient
+ERR2778569_1	Hospitalised patient
+ERR2778570_1	Hospitalised patient
+ERR2778571_1	Hospitalised patient
+ERR2778572_1	Other
+ERR2778573_1	Hospitalised patient
+ERR2778574_1	Other
+ERR2778575_1	Hospitalised patient
+ERR2778576_1	Other
+ERR2778577_1	Other
+ERR2778578_1	Hospitalised patient
+ERR2778579_1	Other
+ERR2778580_1	Other
+ERR2778581_1	Other
+ERR2778582_1	Hospitalised patient
+ERR2778583_1	Hospitalised patient
+ERR2778584_1	Other
+ERR2778585_1	Other
+ERR2778586_1	Hospitalised patient
+ERR2778587_1	Hospitalised patient
+ERR2778588_1	Hospitalised patient
+ERR2778589_1	Hospitalised patient
+ERR2778590_1	Hospitalised patient
+ERR2778591_1	Hospitalised patient
+ERR2778592_1	Other
+ERR2778593_1	Hospitalised patient
+ERR2778594_1	Other
+ERR2778595_1	Hospitalised patient
+ERR2778596_1	Other
+ERR2778597_1	Hospitalised patient
+ERR2778598_1	Other
+ERR2778599_1	Hospitalised patient
+ERR2778600_1	Hospitalised patient
+ERR2778601_1	Hospitalised patient
+ERR2778602_1	Hospitalised patient
+ERR2778603_1	Hospitalised patient
+ERR2778604_1	Other
+ERR2778605_1	Hospitalised patient
+ERR2778606_1	Hospitalised patient
+ERR2778607_1	Other
+ERR2778608_1	Other
+ERR2778609_1	Hospitalised patient
+ERR2778610_1	Other
+ERR2778611_1	Hospitalised patient
+ERR2778612_1	Hospitalised patient
+ERR2778613_1	Hospitalised patient
+ERR2778614_1	Other
+ERR2778615_1	Other
+ERR2778616_1	Hospitalised patient
+ERR2778617_1	Non-hospitalised person
+ERR2778618_1	Hospitalised patient
+ERR2778619_1	Hospitalised patient
+ERR2778620_1	Hospitalised patient
+ERR2778621_1	Hospitalised patient
+ERR2778622_1	Hospitalised patient
+ERR2778623_1	Hospitalised patient
+ERR2778624_1	Hospitalised patient
+ERR2778625_1	Hospitalised patient
+ERR2778626_1	Hospitalised patient
+ERR2778627_1	Hospitalised patient
+ERR2778628_1	Hospitalised patient
+ERR2778629_1	Non-hospitalised person
+ERR2778630_1	Hospitalised patient
+ERR2778631_1	Other
+ERR2778632_1	Hospitalised patient
+ERR2778633_1	Other
+ERR2778634_1	Hospitalised patient
+ERR2778635_1	Hospitalised patient
+ERR2778636_1	Hospitalised patient
+ERR2778637_1	Non-hospitalised person
+ERR2778638_1	Hospitalised patient
+ERR2778639_1	Hospitalised patient
+ERR2778640_1	Hospitalised patient
+ERR2778641_1	Hospitalised patient
+ERR2778642_1	Hospitalised patient
+ERR2778643_1	Hospitalised patient
+ERR2778644_1	Hospitalised patient
+ERR2778645_1	Other
+ERR2778646_1	Hospitalised patient
+ERR2778647_1	Other
+ERR2778648_1	Other
+ERR2778649_1	Hospitalised patient
+ERR2778650_1	Hospitalised patient
+ERR2778651_1	Other
+ERR2778652_1	Hospitalised patient
+ERR2778653_1	Hospitalised patient
+ERR2778654_1	Hospitalised patient
+ERR2778655_1	Hospitalised patient
+ERR2778656_1	Hospitalised patient
+ERR2778657_1	Hospitalised patient
+ERR2778658_1	Hospitalised patient
+ERR2778659_1	Other
+ERR2778660_1	Hospitalised patient
+ERR2778661_1	Hospitalised patient
+ERR2778662_1	Hospitalised patient
+ERR2778663_1	Other
+ERR2778664_1	Other
+ERR2778665_1	Hospitalised patient
+ERR2778666_1	Hospitalised patient
+ERR2778667_1	Hospitalised patient
+ERR2778668_1	Hospitalised patient
+ERR2778669_1	Hospitalised patient
+ERR2778670_1	Hospitalised patient
+ERR2778671_1	Hospitalised patient
+ERR2778672_1	Hospitalised patient
+ERR2778673_1	Hospitalised patient
+ERR2778674_1	Hospitalised patient
+ERR2778675_1	Other
+ERR2778676_1	Other
+ERR2778677_1	Hospitalised patient
+ERR2778678_1	Hospitalised patient
+ERR2778679_1	Hospitalised patient
+ERR2778680_1	Other
+ERR2778681_1	Hospitalised patient
+ERR2778682_1	Hospitalised patient
+ERR2778683_1	Hospitalised patient
+ERR2778684_1	Hospitalised patient
+ERR2778685_1	Hospitalised patient
+ERR2778686_1	Hospitalised patient
+ERR2778687_1	Other
+ERR2778688_1	Hospitalised patient
+ERR2778689_1	Hospitalised patient
+ERR2778690_1	Non-hospitalised person
+ERR2778691_1	Hospitalised patient
+ERR2778692_1	Hospitalised patient
+ERR2778693_1	Other
+ERR2778694_1	Other
+ERR2778695_1	Hospitalised patient
+ERR2778696_1	Other
+ERR2778697_1	Hospitalised patient
+ERR2778698_1	Hospitalised patient
+ERR2778699_1	Hospitalised patient
+ERR2778700_1	Hospitalised patient
+ERR2778701_1	Hospitalised patient
+ERR2778702_1	Hospitalised patient
+ERR2778703_1	Hospitalised patient
+ERR2778704_1	Other
+ERR2778705_1	Other
+ERR2778706_1	Hospitalised patient
+ERR2778707_1	Hospitalised patient
+ERR2778708_1	Hospitalised patient
+ERR2778709_1	Other
+ERR2778710_1	Hospitalised patient
+ERR2778711_1	Hospitalised patient
+ERR2778712_1	Hospitalised patient
+ERR2778713_1	Other
+ERR2778714_1	Other
+ERR2778715_1	Non-hospitalised person
+ERR2778716_1	Hospitalised patient
+ERR2778717_1	Hospitalised patient
+ERR2778718_1	Hospitalised patient
+ERR2778719_1	Other
+ERR2778720_1	Other
+ERR2778721_1	Hospitalised patient
+ERR2778722_1	Hospitalised patient
+ERR2778723_1	Hospitalised patient
+ERR2778724_1	Hospitalised patient
+ERR2778725_1	Hospitalised patient
+ERR2778726_1	Non-hospitalised person
+ERR2778727_1	Hospitalised patient
+ERR2778728_1	Hospitalised patient
+ERR2778729_1	Hospitalised patient
+ERR2778730_1	Hospitalised patient
+ERR2778731_1	Hospitalised patient
+ERR2778732_1	Hospitalised patient
+ERR2778733_1	Hospitalised patient
+ERR2778734_1	Hospitalised patient
+ERR2778735_1	Hospitalised patient
+ERR2778736_1	Hospitalised patient
+ERR2778737_1	Hospitalised patient
+ERR2778738_1	Hospitalised patient
+ERR2778739_1	Hospitalised patient
+ERR2778740_1	Other
+ERR2778741_1	Other
+ERR2778742_1	Hospitalised patient
+ERR2778743_1	Hospitalised patient
+ERR2778744_1	Hospitalised patient
+ERR2778745_1	Hospitalised patient
+ERR2778746_1	Hospitalised patient
+ERR2778747_1	Hospitalised patient
+ERR2778748_1	Non-hospitalised person
+ERR2778749_1	Hospitalised patient
+ERR2778750_1	Hospitalised patient
+ERR2778751_1	Hospitalised patient
+ERR2778752_1	Hospitalised patient
+ERR2778753_1	Other
+ERR2778754_1	Other
+ERR2778755_1	Non-hospitalised person
+ERR2778756_1	Hospitalised patient
+ERR2778757_1	Hospitalised patient
+ERR2778758_1	Non-hospitalised person
+ERR2778759_1	Hospitalised patient
+ERR2778760_1	Other
+ERR2778761_1	Other
+ERR2778762_1	Hospitalised patient
+ERR2778763_1	Other
+ERR2778764_1	Hospitalised patient
+ERR2778765_1	Hospitalised patient
+ERR2778766_1	Hospitalised patient
+ERR2778767_1	Other
+ERR2778768_1	Hospitalised patient
+ERR2778769_1	Other
+ERR2778770_1	Hospitalised patient
+ERR2778771_1	Hospitalised patient
+ERR2778772_1	Hospitalised patient
+ERR2778773_1	Hospitalised patient
+ERR2778774_1	Other
+ERR2778775_1	Hospitalised patient
+ERR2778776_1	Hospitalised patient
+ERR2778777_1	Hospitalised patient
+ERR2778778_1	Hospitalised patient
+ERR2778779_1	Other
+ERR2778780_1	Hospitalised patient
+ERR2778781_1	Non-hospitalised person
+ERR2778782_1	Hospitalised patient
+ERR2778783_1	Hospitalised patient
+ERR2778784_1	Hospitalised patient
+ERR2778785_1	Hospitalised patient
+ERR2778786_1	Hospitalised patient
+ERR2778787_1	Non-hospitalised person
+ERR2778788_1	Non-hospitalised person
+ERR2778789_1	Hospitalised patient
+ERR2778790_1	Other
+ERR2778791_1	Hospitalised patient
+ERR2778792_1	Hospitalised patient
+ERR2778793_1	Hospitalised patient
+ERR2778794_1	Hospitalised patient
+ERR2778795_1	Hospitalised patient
+ERR2778796_1	Hospitalised patient
+ERR2778797_1	Hospitalised patient
+ERR2778798_1	Hospitalised patient
+ERR2778799_1	Hospitalised patient
+ERR2778800_1	Hospitalised patient
+ERR2778801_1	Other
+ERR2778802_1	Non-hospitalised person
+ERR2778803_1	Hospitalised patient
+ERR2778804_1	Hospitalised patient
+ERR2778805_1	Hospitalised patient
+ERR2778806_1	Hospitalised patient
+ERR2778807_1	Non-hospitalised person
+ERR2778808_1	Hospitalised patient
+ERR2778809_1	Hospitalised patient
+ERR2778810_1	Hospitalised patient
+ERR2778811_1	Hospitalised patient
+ERR2778812_1	Hospitalised patient
+ERR2778813_1	Hospitalised patient
+ERR2778814_1	Hospitalised patient
+ERR2778815_1	Other
+ERR2778816_1	Other
+ERR2778817_1	Hospitalised patient
+ERR2778818_1	Hospitalised patient
+ERR2778819_1	Hospitalised patient
+ERR2778820_1	Hospitalised patient
+ERR2778821_1	Hospitalised patient
+ERR2778822_1	Hospitalised patient
+ERR2778823_1	Hospitalised patient
+ERR2778824_1	Hospitalised patient
+ERR2778825_1	Hospitalised patient
+ERR2778826_1	Hospitalised patient
+ERR2778827_1	Other
+ERR2778828_1	Hospitalised patient
+ERR2778829_1	Hospitalised patient
+ERR2778830_1	Hospitalised patient
+ERR2778831_1	Hospitalised patient
+ERR2778832_1	Non-hospitalised person
+ERR2778833_1	Hospitalised patient
+ERR2778834_1	Hospitalised patient
+ERR2778835_1	Non-hospitalised person
+ERR2778836_1	Hospitalised patient
+ERR2778837_1	Hospitalised patient
+ERR2778838_1	Hospitalised patient
+ERR2778839_1	Hospitalised patient
+ERR2778840_1	Non-hospitalised person
+ERR2778841_1	Other
+ERR2778842_1	Other
+ERR2778843_1	Hospitalised patient
+ERR2778844_1	Non-hospitalised person
+ERR2778845_1	Non-hospitalised person
+ERR2778846_1	Other
+ERR2778847_1	Other
+ERR2778848_1	Hospitalised patient
+ERR2778849_1	Hospitalised patient
+ERR2778850_1	Hospitalised patient
+ERR2778851_1	Hospitalised patient
+ERR2778852_1	Hospitalised patient
+ERR2778853_1	Hospitalised patient
+ERR2778854_1	Other
+ERR2778855_1	Hospitalised patient
+ERR2778856_1	Hospitalised patient
+ERR2778857_1	Hospitalised patient
+ERR2778858_1	Other
+ERR2778859_1	Hospitalised patient
+ERR2778860_1	Hospitalised patient
+ERR2778861_1	Non-hospitalised person
+ERR2778862_1	Other
+ERR2778863_1	Hospitalised patient
+ERR2778864_1	Non-hospitalised person
+ERR2778865_1	Other
+ERR2778866_1	Hospitalised patient
+ERR2778867_1	Hospitalised patient
+ERR2778868_1	Hospitalised patient
+ERR2778869_1	Hospitalised patient
+ERR2778870_1	Other
+ERR2778871_1	Other
+ERR2778872_1	Hospitalised patient
+ERR2778873_1	Hospitalised patient
+ERR2778874_1	Hospitalised patient
+ERR2778875_1	Hospitalised patient
+ERR2778876_1	Other
+ERR2778877_1	Hospitalised patient
+ERR2778878_1	Hospitalised patient
+ERR2778879_1	Hospitalised patient
+ERR2778880_1	Hospitalised patient
+ERR2778881_1	Hospitalised patient
+ERR2778882_1	Non-hospitalised person
+ERR2778883_1	Hospitalised patient
+ERR2778884_1	Hospitalised patient
+ERR2778885_1	Hospitalised patient
+ERR2778886_1	Hospitalised patient
+ERR2778887_1	Other
+ERR2778888_1	Other
+ERR2778889_1	Hospitalised patient
+ERR2778890_1	Hospitalised patient
+ERR2778891_1	Hospitalised patient
+ERR2778892_1	Hospitalised patient
+ERR2778893_1	Other
+ERR2778894_1	Hospitalised patient
+ERR2778895_1	Other
+ERR2778896_1	Hospitalised patient
+ERR2778897_1	Hospitalised patient
+ERR2778898_1	Hospitalised patient
+ERR2778899_1	Hospitalised patient
+ERR2778900_1	Hospitalised patient
+ERR2778901_1	Hospitalised patient
+ERR2778902_1	Non-hospitalised person
+ERR2778903_1	Non-hospitalised person
+ERR2778904_1	Other
+ERR2778905_1	Hospitalised patient
+ERR2778906_1	Hospitalised patient
+ERR2778907_1	Other
+ERR2778908_1	Hospitalised patient
+ERR2778909_1	Hospitalised patient
+ERR2778910_1	Hospitalised patient
+ERR2778911_1	Hospitalised patient
+ERR2778912_1	Hospitalised patient
+ERR2778913_1	Hospitalised patient
+ERR2778914_1	Other
+ERR2778915_1	Hospitalised patient
+ERR2778916_1	Hospitalised patient
+ERR2778917_1	Other
+ERR2778918_1	Other
+ERR2778919_1	Hospitalised patient
+ERR2778920_1	Hospitalised patient
+ERR2778921_1	Hospitalised patient
+ERR2778922_1	Non-hospitalised person
+ERR2778923_1	Hospitalised patient
+ERR2778924_1	Hospitalised patient
+ERR2778925_1	Other
+ERR2778926_1	Other
+ERR2778927_1	Hospitalised patient
+ERR2778928_1	Hospitalised patient
+ERR2778929_1	Hospitalised patient
+ERR2778930_1	Hospitalised patient
+ERR2778931_1	Other
+ERR2778932_1	Non-hospitalised person
+ERR2778933_1	Other
+ERR2778934_1	Hospitalised patient
+ERR2778935_1	Hospitalised patient
+ERR2778936_1	Hospitalised patient
+ERR2778937_1	Other
+ERR2778938_1	Hospitalised patient
+ERR2778939_1	Non-hospitalised person
+ERR2778940_1	Hospitalised patient
+ERR2778941_1	Hospitalised patient
+ERR2778942_1	Hospitalised patient
+ERR2778943_1	Other
+ERR2778944_1	Hospitalised patient
+ERR2778945_1	Hospitalised patient
+ERR2778946_1	Hospitalised patient
+ERR2778947_1	Other
+ERR2778948_1	Hospitalised patient
+ERR2778949_1	Hospitalised patient
+ERR2778950_1	Hospitalised patient
+ERR2778951_1	Non-hospitalised person
+ERR2778952_1	Other
+ERR2778953_1	Hospitalised patient
+ERR2778954_1	Hospitalised patient
+ERR2778955_1	Hospitalised patient
+ERR2778956_1	Other
+ERR2778957_1	Hospitalised patient
+ERR2778958_1	Hospitalised patient
+ERR2778959_1	Hospitalised patient
+ERR2778960_1	Hospitalised patient
+ERR2778961_1	Hospitalised patient
+ERR2778962_1	Hospitalised patient
+ERR2778963_1	Hospitalised patient
+ERR2778964_1	Hospitalised patient
+ERR2778965_1	Hospitalised patient
+ERR2778966_1	Hospitalised patient
+ERR2778967_1	Non-hospitalised person
+ERR2778968_1	Hospitalised patient
+ERR2778969_1	Hospitalised patient
+ERR2778970_1	Hospitalised patient
+ERR2778971_1	Other
+ERR2778972_1	Hospitalised patient
+ERR2778973_1	Hospitalised patient
+ERR2778974_1	Hospitalised patient
+ERR2778975_1	Hospitalised patient
+ERR2778976_1	Other
+ERR2778977_1	Hospitalised patient
+ERR2778978_1	Hospitalised patient
+ERR2778979_1	Hospitalised patient
+ERR2778980_1	Hospitalised patient
+ERR2778981_1	Hospitalised patient
+ERR2778982_1	Hospitalised patient
+ERR2778983_1	Hospitalised patient
+ERR2778984_1	Hospitalised patient
+ERR2778985_1	Hospitalised patient
+ERR2778986_1	Hospitalised patient
+ERR2778987_1	Other
+ERR2778988_1	Hospitalised patient
+ERR2778989_1	Hospitalised patient
+ERR2778990_1	Non-hospitalised person
+ERR2778991_1	Other
+ERR2778992_1	Hospitalised patient
+ERR2778993_1	Other
+ERR2778994_1	Hospitalised patient
+ERR2778995_1	Other
+ERR2778996_1	Other
+ERR2778997_1	Hospitalised patient
+ERR2778998_1	Hospitalised patient
+ERR2778999_1	Other
+ERR2779000_1	Other
+ERR2779001_1	Hospitalised patient
+ERR2779002_1	Hospitalised patient
+ERR2779003_1	Other
+ERR2779004_1	Hospitalised patient
+ERR2779005_1	Hospitalised patient
+ERR2779006_1	Hospitalised patient
+ERR2779007_1	Hospitalised patient
+ERR2779008_1	Hospitalised patient
+ERR2779009_1	Hospitalised patient
+ERR2779010_1	Hospitalised patient
+ERR2779011_1	Hospitalised patient
+ERR2779012_1	Hospitalised patient
+ERR2779013_1	Non-hospitalised person
+ERR2779014_1	Other
+ERR2779015_1	Hospitalised patient
+ERR2779016_1	Hospitalised patient
+ERR2779017_1	Non-hospitalised person
+ERR2779018_1	Other
+ERR2779019_1	Hospitalised patient
+ERR2779020_1	Hospitalised patient
+ERR2779021_1	Hospitalised patient
+ERR2779022_1	Hospitalised patient
+ERR2779023_1	Hospitalised patient
+ERR2779024_1	Hospitalised patient
+ERR2779025_1	Hospitalised patient
+ERR2779026_1	Hospitalised patient
+ERR2779027_1	Hospitalised patient
+ERR2779028_1	Hospitalised patient
+ERR2779029_1	Hospitalised patient
+ERR2779030_1	Hospitalised patient
+ERR2779031_1	Hospitalised patient
+ERR2779032_1	Hospitalised patient
+ERR2779033_1	Other
+ERR2779034_1	Hospitalised patient
+ERR2779035_1	Other
+ERR2779036_1	Hospitalised patient
+ERR2779037_1	Other
+ERR2779038_1	Hospitalised patient
+ERR2779039_1	Hospitalised patient
+ERR2779040_1	Hospitalised patient
+ERR2779041_1	Hospitalised patient
+ERR2779042_1	Hospitalised patient
+ERR2779043_1	Hospitalised patient
+ERR2779044_1	Other
+ERR2779045_1	Other
+ERR2779046_1	Non-hospitalised person
+ERR2779047_1	Hospitalised patient
+ERR2779048_1	Hospitalised patient
+ERR2779049_1	Hospitalised patient
+ERR2779050_1	Other
+ERR2779051_1	Other
+ERR2779052_1	Hospitalised patient
+ERR2779053_1	Other
+ERR2779054_1	Other
+ERR2779055_1	Hospitalised patient
+ERR2779056_1	Hospitalised patient
+ERR2779057_1	Hospitalised patient
+ERR2779058_1	Hospitalised patient
+ERR2779059_1	Hospitalised patient
+ERR2779060_1	Hospitalised patient
+ERR2779061_1	Hospitalised patient
+ERR2779062_1	Hospitalised patient
+ERR2779063_1	Hospitalised patient
+ERR2779064_1	Other
+ERR2779065_1	Hospitalised patient
+ERR2779066_1	Hospitalised patient
+ERR2779067_1	Hospitalised patient
+ERR2779068_1	Hospitalised patient
+ERR2779069_1	Hospitalised patient
+ERR2779070_1	Hospitalised patient
+ERR2779071_1	Hospitalised patient
+ERR2779072_1	Other
+ERR2779073_1	Hospitalised patient
+ERR2779074_1	Hospitalised patient
+ERR2779075_1	Other
+ERR2779076_1	Hospitalised patient
+ERR2779077_1	Other
+ERR2779078_1	Other
+ERR2779079_1	Hospitalised patient
+ERR2779080_1	Hospitalised patient
+ERR2779081_1	Hospitalised patient
+ERR2779082_1	Hospitalised patient
+ERR2779083_1	Other
+ERR2779084_1	Hospitalised patient
+ERR2779085_1	Hospitalised patient
+ERR2779086_1	Hospitalised patient
+ERR2779087_1	Hospitalised patient
+ERR2779088_1	Hospitalised patient
+ERR2779089_1	Other
+ERR2779090_1	Hospitalised patient
+ERR2779091_1	Hospitalised patient
+ERR2779092_1	Other
+ERR2779093_1	Other
+ERR2779094_1	Hospitalised patient
+ERR2779095_1	Hospitalised patient
+ERR2779096_1	Other
+ERR2779097_1	Hospitalised patient
+ERR2779098_1	Other
+ERR2779099_1	Hospitalised patient
+ERR2779100_1	Hospitalised patient
+ERR2779101_1	Other
+ERR2779102_1	Hospitalised patient
+ERR2779103_1	Hospitalised patient
+ERR2779104_1	Hospitalised patient
+ERR2779105_1	Other
+ERR2779106_1	Hospitalised patient
+ERR2779107_1	Other
+ERR2779108_1	Other
+ERR2779109_1	Other
+ERR2779110_1	Hospitalised patient
+ERR2779111_1	Hospitalised patient
+ERR2779112_1	Hospitalised patient
+ERR2779113_1	Hospitalised patient
+ERR2779114_1	Hospitalised patient
+ERR2779115_1	Other
+ERR2779116_1	Hospitalised patient
+ERR2779117_1	Hospitalised patient
+ERR2779118_1	Hospitalised patient
+ERR2779119_1	Other
+ERR2779120_1	Hospitalised patient
+ERR2779121_1	Hospitalised patient
+ERR2779122_1	Hospitalised patient
+ERR2779123_1	Hospitalised patient
+ERR2779124_1	Hospitalised patient
+ERR2779125_1	Hospitalised patient
+ERR2779126_1	Other
+ERR2779127_1	Hospitalised patient
+ERR2779128_1	Other
+ERR2779129_1	Hospitalised patient
+ERR2779130_1	Hospitalised patient
+ERR2779131_1	Hospitalised patient
+ERR2779132_1	Hospitalised patient
+ERR2779133_1	Non-hospitalised person
+ERR2779134_1	Other
+ERR2779135_1	Hospitalised patient
+ERR2779136_1	Hospitalised patient
+ERR2779137_1	Other
+ERR2779138_1	Hospitalised patient
+ERR2779139_1	Other
+ERR2779140_1	Other
+ERR2779141_1	Hospitalised patient
+ERR2779142_1	Hospitalised patient
+ERR2779143_1	Other
+ERR2779144_1	Other
+ERR2779145_1	Non-hospitalised person
+ERR2779146_1	Hospitalised patient
+ERR2779147_1	Non-hospitalised person
+ERR2779148_1	Hospitalised patient
+ERR2779149_1	Hospitalised patient
+ERR2779150_1	Hospitalised patient
+ERR2779151_1	Hospitalised patient
+ERR2779152_1	Hospitalised patient
+ERR2779153_1	Hospitalised patient
+ERR2779154_1	Other
+ERR2779155_1	Hospitalised patient
+ERR2779156_1	Hospitalised patient
+ERR2779157_1	Hospitalised patient
+ERR2779158_1	Hospitalised patient
+ERR2779159_1	Hospitalised patient
+ERR2779160_1	Hospitalised patient
+ERR2779161_1	Other
+ERR2779162_1	Hospitalised patient
+ERR2779163_1	Other
+ERR2779164_1	Hospitalised patient
+ERR2779165_1	Other
+ERR2779166_1	Hospitalised patient
+ERR2779167_1	Hospitalised patient
+ERR2779168_1	Hospitalised patient
+ERR2779169_1	Other
+ERR2779170_1	Hospitalised patient
+ERR2779171_1	Hospitalised patient
+ERR2779172_1	Other
+ERR2779173_1	Hospitalised patient
+ERR2779174_1	Hospitalised patient
+ERR2779175_1	Hospitalised patient
+ERR2779176_1	Hospitalised patient
+ERR2779177_1	Non-hospitalised person
+ERR2779178_1	Other
+ERR2779179_1	Other
+ERR2779180_1	Other
+ERR2779181_1	Hospitalised patient
+ERR2779182_1	Non-hospitalised person
+ERR2779183_1	Hospitalised patient
+ERR2779184_1	Non-hospitalised person
+ERR2779185_1	Hospitalised patient
+ERR2779186_1	Other
+ERR2779187_1	Hospitalised patient
+ERR2779188_1	Hospitalised patient
+ERR2779189_1	Non-hospitalised person
+ERR2779190_1	Hospitalised patient
+ERR2779191_1	Hospitalised patient
+ERR2779192_1	Other
+ERR2779193_1	Non-hospitalised person
+ERR2779194_1	Hospitalised patient
+ERR2779195_1	Hospitalised patient
+ERR2779196_1	Other
+ERR2779197_1	Hospitalised patient
+ERR2779198_1	Hospitalised patient
+ERR2779199_1	Other
+ERR2779200_1	Hospitalised patient
+ERR2779201_1	Hospitalised patient
+ERR2779202_1	Hospitalised patient
+ERR2779203_1	Hospitalised patient
+ERR2779204_1	Other
+ERR2779205_1	Hospitalised patient
+ERR2779206_1	Other
+ERR2779207_1	Hospitalised patient
+ERR2779208_1	Hospitalised patient
+ERR2779209_1	Hospitalised patient
+ERR2779210_1	Non-hospitalised person
+ERR2779211_1	Hospitalised patient
+ERR2779212_1	Hospitalised patient
+ERR2779213_1	Other
+ERR2779214_1	Hospitalised patient
+ERR2779215_1	Hospitalised patient
+ERR2779216_1	Hospitalised patient
+ERR2779217_1	Hospitalised patient
+ERR2779218_1	Hospitalised patient
+ERR2779219_1	Hospitalised patient
+ERR2779220_1	Hospitalised patient
+ERR2779221_1	Hospitalised patient
+ERR2779222_1	Hospitalised patient
+ERR2779223_1	Hospitalised patient
+ERR2779224_1	Hospitalised patient
+ERR2779225_1	Other
+ERR2779226_1	Hospitalised patient
+ERR2779227_1	Hospitalised patient
+ERR2779228_1	Other
+ERR2779229_1	Hospitalised patient
+ERR2779230_1	Hospitalised patient
+ERR2779231_1	Other
+ERR2779232_1	Other
+ERR2779233_1	Hospitalised patient
+ERR2779234_1	Hospitalised patient
+ERR2779235_1	Hospitalised patient
+ERR2779236_1	Hospitalised patient
+ERR2779237_1	Hospitalised patient
+ERR2779238_1	Non-hospitalised person
+ERR2779239_1	Hospitalised patient
+ERR2779240_1	Other
+ERR2779241_1	Hospitalised patient
+ERR2779242_1	Other
+ERR2779243_1	Hospitalised patient
+ERR2779244_1	Other
+ERR2779245_1	Other
+ERR2779246_1	Other
+ERR2779247_1	Other
+ERR2779248_1	Hospitalised patient
+ERR2779249_1	Hospitalised patient
+ERR2779250_1	Other
+ERR2779251_1	Hospitalised patient
+ERR2779252_1	Hospitalised patient
+ERR2779253_1	Hospitalised patient
+ERR2779254_1	Other
+ERR2779255_1	Hospitalised patient
+ERR2779256_1	Other
+ERR2779257_1	Hospitalised patient
+ERR2779258_1	Hospitalised patient
+ERR2779259_1	Other
+ERR2779260_1	Hospitalised patient
+ERR2779261_1	Non-hospitalised person
+ERR2779262_1	Hospitalised patient
+ERR2779263_1	Other
+ERR2779264_1	Non-hospitalised person
+ERR2779265_1	Other
+ERR2779266_1	Hospitalised patient
+ERR2779267_1	Hospitalised patient
+ERR2779268_1	Hospitalised patient
+ERR2779269_1	Other
+ERR2779270_1	Hospitalised patient
+ERR2779271_1	Hospitalised patient
+ERR2779272_1	Other
+ERR2779273_1	Other
+ERR2779274_1	Hospitalised patient
+ERR2779275_1	Hospitalised patient
+ERR2779276_1	Hospitalised patient
+ERR2779277_1	Hospitalised patient
+ERR2779278_1	Hospitalised patient
+ERR2779279_1	Non-hospitalised person
+ERR2779280_1	Other
+ERR2779281_1	Hospitalised patient
+ERR2779282_1	Hospitalised patient
+ERR2779283_1	Hospitalised patient
+ERR2779284_1	Other
+ERR2779285_1	Hospitalised patient
+ERR2779286_1	Hospitalised patient
+ERR2779287_1	Other
+ERR2779288_1	Non-hospitalised person
+ERR2779289_1	Other
+ERR2779290_1	Hospitalised patient
+ERR2779291_1	Non-hospitalised person
+ERR2779292_1	Other
+ERR2779293_1	Other
+ERR2779294_1	Hospitalised patient
+ERR2779295_1	Other
+ERR2779296_1	Hospitalised patient
+ERR2779297_1	Hospitalised patient
+ERR2779298_1	Other
+ERR2779299_1	Hospitalised patient
+ERR2779300_1	Hospitalised patient
+ERR2779301_1	Hospitalised patient
+ERR2779302_1	Non-hospitalised person
+ERR2779303_1	Other
+ERR2779304_1	Hospitalised patient
+ERR2779305_1	Other
+ERR2779306_1	Hospitalised patient
+ERR2779307_1	Hospitalised patient
+ERR2779308_1	Hospitalised patient
+ERR2779309_1	Hospitalised patient
+ERR2779310_1	Hospitalised patient
+ERR2779311_1	Hospitalised patient
+ERR2779312_1	Other
+ERR2779313_1	Non-hospitalised person
+ERR2779314_1	Other
+ERR2779315_1	Hospitalised patient
+ERR2779316_1	Hospitalised patient
+ERR2779317_1	Hospitalised patient
+ERR2779318_1	Other
+ERR2779319_1	Other
+ERR2779320_1	Other
+ERR2779321_1	Hospitalised patient
+ERR2779322_1	Hospitalised patient
+ERR2779323_1	Non-hospitalised person
+ERR2779324_1	Other
+ERR2779325_1	Hospitalised patient
+ERR2779326_1	Hospitalised patient
+ERR2779327_1	Other
+ERR2779328_1	Hospitalised patient
+ERR2779329_1	Other
+ERR2779330_1	Other
+ERR2779331_1	Hospitalised patient
+ERR2779332_1	Hospitalised patient
+ERR2779333_1	Other
+ERR2779334_1	Other
+ERR2779335_1	Hospitalised patient
+ERR2779336_1	Hospitalised patient
+ERR2779337_1	Non-hospitalised person
+ERR2779338_1	Hospitalised patient
+ERR2779339_1	Hospitalised patient
+ERR2779340_1	Other
+ERR2779341_1	Hospitalised patient
+ERR2779342_1	Other
+ERR2779343_1	Hospitalised patient
+ERR2779344_1	Hospitalised patient
+ERR2779345_1	Hospitalised patient
+ERR2779346_1	Non-hospitalised person
+ERR2779347_1	Hospitalised patient
+ERR2779348_1	Hospitalised patient
+ERR2779349_1	Hospitalised patient
+ERR2779350_1	Other
+ERR2779351_1	Other
+ERR2779352_1	Hospitalised patient
+ERR2779353_1	Hospitalised patient
+ERR2779354_1	Non-hospitalised person
+ERR2779355_1	Hospitalised patient
+ERR2779356_1	Hospitalised patient
+ERR2779357_1	Hospitalised patient
+ERR2779358_1	Hospitalised patient
+ERR2779359_1	Hospitalised patient
+ERR2779360_1	Other
+ERR2779361_1	Hospitalised patient
+ERR2779362_1	Hospitalised patient
+ERR2779363_1	Hospitalised patient
+ERR2779364_1	Hospitalised patient
+ERR2779365_1	Hospitalised patient
+ERR2779366_1	Other
+ERR2779367_1	Hospitalised patient
+ERR2779368_1	Other
+ERR2779369_1	Hospitalised patient
+ERR2779370_1	Other
+ERR2779371_1	Hospitalised patient
+ERR2779372_1	Hospitalised patient
+ERR2779373_1	Hospitalised patient
+ERR2779374_1	Hospitalised patient
+ERR2779375_1	Other
+ERR2779376_1	Hospitalised patient
+ERR2779377_1	Other
+ERR2779378_1	Other
+ERR2779379_1	Hospitalised patient
+ERR2779380_1	Hospitalised patient
+ERR2779381_1	Hospitalised patient
+ERR2779382_1	Non-hospitalised person
+ERR2779383_1	Hospitalised patient
+ERR2779384_1	Hospitalised patient
+ERR2779385_1	Hospitalised patient
+ERR2779386_1	Hospitalised patient
+ERR2779387_1	Hospitalised patient
+ERR2779388_1	Other
+ERR2779389_1	Hospitalised patient
+ERR2779390_1	Other
+ERR2779391_1	Other
+ERR2779392_1	Other
+ERR2779393_1	Hospitalised patient
+ERR2779394_1	Non-hospitalised person
+ERR2779395_1	Hospitalised patient
+ERR2779396_1	Hospitalised patient
+ERR2779397_1	Hospitalised patient
+ERR2779398_1	Other
+ERR2779399_1	Hospitalised patient
+ERR2779400_1	Hospitalised patient
+ERR2779401_1	Hospitalised patient
+ERR2779402_1	Other
+ERR2779403_1	Hospitalised patient
+ERR2779404_1	Hospitalised patient
+ERR2779405_1	Other
+ERR2779406_1	Hospitalised patient
+ERR2779407_1	Hospitalised patient
+ERR2779408_1	Other
+ERR2779409_1	Hospitalised patient
+ERR2779410_1	Non-hospitalised person
+ERR2779411_1	Hospitalised patient
+ERR2779412_1	Hospitalised patient
+ERR2779413_1	Other
+ERR2779414_1	Other
+ERR2779415_1	Hospitalised patient
+ERR2779416_1	Hospitalised patient
+ERR2779417_1	Hospitalised patient
+ERR2779418_1	Hospitalised patient
+ERR2779419_1	Hospitalised patient
+ERR2779420_1	Other
+ERR2779421_1	Non-hospitalised person
+ERR2779422_1	Other
+ERR2779423_1	Hospitalised patient
+ERR2779424_1	Hospitalised patient
+ERR2779425_1	Hospitalised patient
+ERR2779426_1	Other
+ERR2779427_1	Non-hospitalised person
+ERR2779428_1	Hospitalised patient
+ERR2779429_1	Hospitalised patient
+ERR2779430_1	Hospitalised patient
+ERR2779431_1	Hospitalised patient
+ERR2779432_1	Hospitalised patient
+ERR2779433_1	Hospitalised patient
+ERR2779434_1	Hospitalised patient
+ERR2779435_1	Hospitalised patient
+ERR2779436_1	Other
+ERR2779437_1	Hospitalised patient
+ERR2779438_1	Other
+ERR2779439_1	Hospitalised patient
+ERR2779440_1	Other
+ERR2779441_1	Hospitalised patient
+ERR2779442_1	Hospitalised patient
+ERR2779443_1	Non-hospitalised person
+ERR2779444_1	Other
+ERR2779445_1	Hospitalised patient
+ERR2779446_1	Other
+ERR2779447_1	Hospitalised patient
+ERR2779448_1	Hospitalised patient
+ERR2779449_1	Hospitalised patient
+ERR2779450_1	Hospitalised patient
+ERR2779451_1	Hospitalised patient
+ERR2779452_1	Hospitalised patient
+ERR2779453_1	Hospitalised patient
+ERR2779454_1	Other
+ERR2779455_1	Hospitalised patient
+ERR2779456_1	Hospitalised patient
+ERR2779457_1	Hospitalised patient
+ERR2779458_1	Hospitalised patient
+ERR2779459_1	Hospitalised patient
+ERR2779460_1	Hospitalised patient
+ERR2779461_1	Hospitalised patient
+ERR2779462_1	Hospitalised patient
+ERR2779463_1	Other
+ERR2779464_1	Hospitalised patient
+ERR2779465_1	Hospitalised patient
+ERR2779466_1	Hospitalised patient
+ERR2779467_1	Hospitalised patient
+ERR2779468_1	Other
+ERR2779469_1	Hospitalised patient
+ERR2779470_1	Hospitalised patient
+ERR2779471_1	Hospitalised patient
+ERR2779472_1	Other
+ERR2779473_1	Hospitalised patient
+ERR2779474_1	Non-hospitalised person
+ERR2779475_1	Other
+ERR2779476_1	Hospitalised patient
+ERR2779477_1	Non-hospitalised person
+ERR2779478_1	Hospitalised patient
+ERR2779479_1	Other
+ERR2779480_1	Hospitalised patient
+ERR2779481_1	Hospitalised patient
+ERR2779482_1	Hospitalised patient
+ERR2779483_1	Other
+ERR2779484_1	Hospitalised patient
+ERR2779485_1	Hospitalised patient
+ERR2779486_1	Hospitalised patient
+ERR2779487_1	Hospitalised patient
+ERR2779488_1	Other
+ERR2779489_1	Hospitalised patient
+ERR2779490_1	Hospitalised patient
+ERR2779491_1	Hospitalised patient
+ERR2779492_1	Hospitalised patient
+ERR2779493_1	Other
+ERR2779494_1	Hospitalised patient
+ERR2779495_1	Other
+ERR2779496_1	Hospitalised patient
+ERR2779497_1	Hospitalised patient
+ERR2779498_1	Hospitalised patient
+ERR2779499_1	Other
+ERR2779500_1	Other
+ERR2779501_1	Hospitalised patient
+ERR2779502_1	Hospitalised patient
+ERR2779503_1	Non-hospitalised person
+ERR2779504_1	Hospitalised patient
+ERR2779505_1	Hospitalised patient
+ERR2779506_1	Hospitalised patient
+ERR2779507_1	Other
+ERR2779508_1	Hospitalised patient
+ERR2779509_1	Hospitalised patient
+ERR2779510_1	Hospitalised patient
+ERR2779511_1	Other
+ERR2779512_1	Hospitalised patient
+ERR2779513_1	Hospitalised patient
+ERR2779514_1	Hospitalised patient
+ERR2779515_1	Other
+ERR2779516_1	Other
+ERR2779517_1	Hospitalised patient
+ERR2779518_1	Hospitalised patient
+ERR2779519_1	Non-hospitalised person
+ERR2779520_1	Hospitalised patient
+ERR2779521_1	Other
+ERR2779522_1	Other
+ERR2779523_1	Other
+ERR2779524_1	Non-hospitalised person
+ERR2779525_1	Hospitalised patient
+ERR2779526_1	Hospitalised patient
+ERR2779527_1	Hospitalised patient
+ERR2779528_1	Other
+ERR2779529_1	Non-hospitalised person
+ERR2779530_1	Hospitalised patient
+ERR2779531_1	Non-hospitalised person
+ERR2779532_1	Hospitalised patient
+ERR2779533_1	Other
+ERR2779534_1	Hospitalised patient
+ERR2779535_1	Hospitalised patient
+ERR2779536_1	Other
+ERR2779537_1	Hospitalised patient
+ERR2779538_1	Hospitalised patient
+ERR2779539_1	Hospitalised patient
+ERR2779540_1	Hospitalised patient
+ERR2779541_1	Hospitalised patient
+ERR2779542_1	Hospitalised patient
+ERR2779543_1	Hospitalised patient
+ERR2779544_1	Hospitalised patient
+ERR2779545_1	Hospitalised patient
+ERR2779546_1	Hospitalised patient
+ERR2779547_1	Hospitalised patient
+ERR2779548_1	Hospitalised patient
+ERR2779549_1	Hospitalised patient
+ERR2779550_1	Other
+ERR2779551_1	Hospitalised patient
+ERR2779552_1	Hospitalised patient
+ERR2779553_1	Hospitalised patient
+ERR2779554_1	Hospitalised patient
+ERR2779555_1	Hospitalised patient
+ERR2779556_1	Hospitalised patient
+ERR2779557_1	Other
+ERR2779558_1	Hospitalised patient
+ERR2779559_1	Other
+ERR2779560_1	Other
+ERR2779561_1	Hospitalised patient
+ERR2779562_1	Hospitalised patient
+ERR2779563_1	Other
+ERR2779564_1	Hospitalised patient
+ERR2779565_1	Hospitalised patient
+ERR2779566_1	Other
+ERR2779567_1	Hospitalised patient
+ERR2779568_1	Hospitalised patient
+ERR2779569_1	Hospitalised patient
+ERR2779570_1	Other
+ERR2779571_1	Hospitalised patient
+ERR2779572_1	Hospitalised patient
+ERR2779573_1	Hospitalised patient
+ERR2779574_1	Other
+ERR2779575_1	Other
+ERR2779576_1	Hospitalised patient
+ERR2779577_1	Hospitalised patient
+ERR2779578_1	Hospitalised patient
+ERR2779579_1	Hospitalised patient
+ERR2779580_1	Hospitalised patient
+ERR2779581_1	Hospitalised patient
+ERR2779582_1	Non-hospitalised person
+ERR2779583_1	Hospitalised patient
+ERR2779584_1	Other
+ERR2779585_1	Other
+ERR2779586_1	Hospitalised patient
+ERR2779587_1	Other
+ERR2779588_1	Hospitalised patient
+ERR2779589_1	Hospitalised patient
+ERR2779590_1	Hospitalised patient
+ERR2779591_1	Hospitalised patient
+ERR2779592_1	Hospitalised patient
+ERR2779593_1	Other
+ERR2779594_1	Other
+ERR2779595_1	Hospitalised patient
+ERR2779596_1	Hospitalised patient
+ERR2779597_1	Hospitalised patient
+ERR2779598_1	Hospitalised patient
+ERR2779599_1	Hospitalised patient
+ERR2779600_1	Other
+ERR2779601_1	Hospitalised patient
+ERR2779602_1	Other
+ERR2779603_1	Hospitalised patient
+ERR2779604_1	Hospitalised patient
+ERR2779605_1	Other
+ERR2779606_1	Hospitalised patient
+ERR2779607_1	Hospitalised patient
+ERR2779608_1	Hospitalised patient
+ERR2779609_1	Hospitalised patient
+ERR2779610_1	Hospitalised patient
+ERR2779611_1	Hospitalised patient
+ERR2779612_1	Hospitalised patient
+ERR2779613_1	Hospitalised patient
+ERR2779614_1	Non-hospitalised person
+ERR2779615_1	Hospitalised patient
+ERR2779616_1	Hospitalised patient
+ERR2779617_1	Hospitalised patient
+ERR2779618_1	Hospitalised patient
+ERR2779619_1	Hospitalised patient
+ERR2779620_1	Other
+ERR2779621_1	Hospitalised patient
+ERR2779622_1	Non-hospitalised person
+ERR2779623_1	Hospitalised patient
+ERR2779624_1	Non-hospitalised person
+ERR2779625_1	Hospitalised patient
+ERR2779626_1	Hospitalised patient
+ERR2779627_1	Hospitalised patient
+ERR2779628_1	Hospitalised patient
+ERR2779629_1	Hospitalised patient
+ERR2779630_1	Other
+ERR2779631_1	Non-hospitalised person
+ERR2779632_1	Hospitalised patient
+ERR2779633_1	Other
+ERR2779634_1	Hospitalised patient
+ERR2779635_1	Hospitalised patient
+ERR2779636_1	Other
+ERR2779637_1	Hospitalised patient
+ERR2779638_1	Other
+ERR2779639_1	Hospitalised patient
+ERR2779640_1	Hospitalised patient
+ERR2779641_1	Other
+ERR2779642_1	Hospitalised patient
+ERR2779643_1	Hospitalised patient
+ERR2779644_1	Other
+ERR2779645_1	Hospitalised patient
+ERR2779646_1	Hospitalised patient
+ERR2779647_1	Hospitalised patient
+ERR2779648_1	Hospitalised patient
+ERR2779649_1	Other
+ERR2779650_1	Other
+ERR2779651_1	Hospitalised patient
+ERR2779652_1	Hospitalised patient
+ERR2779653_1	Hospitalised patient
+ERR2779654_1	Hospitalised patient
+ERR2779655_1	Hospitalised patient
+ERR2779656_1	Other
+ERR2779657_1	Hospitalised patient
+ERR2779658_1	Hospitalised patient
+ERR2779659_1	Hospitalised patient
+ERR2779660_1	Hospitalised patient
+ERR2779661_1	Other
+ERR2779662_1	Hospitalised patient
+ERR2779663_1	Hospitalised patient
+ERR2779664_1	Hospitalised patient
+ERR2779665_1	Hospitalised patient
+ERR2779666_1	Hospitalised patient
+ERR2779667_1	Hospitalised patient
+ERR2779668_1	Hospitalised patient
+ERR2779669_1	Hospitalised patient
+ERR2779670_1	Non-hospitalised person
+ERR2779671_1	Other
+ERR2779672_1	Hospitalised patient
+ERR2779673_1	Other
+ERR2779674_1	Other
+ERR2779675_1	Other
+ERR2779676_1	Other
+ERR2779677_1	Hospitalised patient
+ERR2779678_1	Hospitalised patient
+ERR2779679_1	Hospitalised patient
+ERR2779680_1	Hospitalised patient
+ERR2779681_1	Hospitalised patient
+ERR2779682_1	Hospitalised patient
+ERR2779683_1	Hospitalised patient
+ERR2779684_1	Other
+ERR2779685_1	Hospitalised patient
+ERR2779686_1	Hospitalised patient
+ERR2779687_1	Hospitalised patient
+ERR2779688_1	Hospitalised patient
+ERR2779689_1	Hospitalised patient
+ERR2779690_1	Hospitalised patient
+ERR2779691_1	Other
+ERR2779692_1	Hospitalised patient
+ERR2779693_1	Hospitalised patient
+ERR2779694_1	Other
+ERR2779695_1	Hospitalised patient
+ERR2779696_1	Hospitalised patient
+ERR2779697_1	Hospitalised patient
+ERR2779698_1	Non-hospitalised person
+ERR2779699_1	Other
+ERR2779700_1	Hospitalised patient
+ERR2779701_1	Hospitalised patient
+ERR2779702_1	Hospitalised patient
+ERR2779703_1	Hospitalised patient
+ERR2779704_1	Other
+ERR2779705_1	Other
+ERR2779706_1	Hospitalised patient
+ERR2779707_1	Hospitalised patient
+ERR2779708_1	Other
+ERR2779709_1	Other
+ERR2779710_1	Hospitalised patient
+ERR2779711_1	Hospitalised patient
+ERR2779712_1	Hospitalised patient
+ERR2779713_1	Hospitalised patient
+ERR2779714_1	Other
+ERR2779715_1	Other
+ERR2779716_1	Hospitalised patient
+ERR2779717_1	Hospitalised patient
+ERR2779718_1	Hospitalised patient
+ERR2779719_1	Hospitalised patient
+ERR2779720_1	Hospitalised patient
+ERR2779721_1	Hospitalised patient
+ERR2779722_1	Hospitalised patient
+ERR2779723_1	Hospitalised patient
+ERR2779724_1	Hospitalised patient
+ERR2779725_1	Hospitalised patient
+ERR2779726_1	Hospitalised patient
+ERR2779727_1	Other
+ERR2779728_1	Hospitalised patient
+ERR2779729_1	Other
+ERR2779730_1	Hospitalised patient
+ERR2779731_1	Hospitalised patient
+ERR2779732_1	Other
+ERR2779733_1	Hospitalised patient
+ERR2779734_1	Hospitalised patient
+ERR2779735_1	Other
+ERR2779736_1	Hospitalised patient
+ERR2779737_1	Hospitalised patient
+ERR2779738_1	Hospitalised patient
+ERR2779739_1	Hospitalised patient
+ERR2779740_1	Hospitalised patient
+ERR2779741_1	Hospitalised patient
+ERR2779742_1	Hospitalised patient
+ERR2779743_1	Hospitalised patient
+ERR2779744_1	Hospitalised patient
+ERR2779745_1	Hospitalised patient
+ERR2779746_1	Hospitalised patient
+ERR2779747_1	Hospitalised patient
+ERR2779748_1	Other
+ERR2779749_1	Hospitalised patient
+ERR2779750_1	Hospitalised patient
+ERR2779751_1	Hospitalised patient
+ERR2779752_1	Hospitalised patient
+ERR2779753_1	Hospitalised patient
+ERR2779754_1	Hospitalised patient
+ERR2779755_1	Hospitalised patient
+ERR2779756_1	Hospitalised patient
+ERR2779757_1	Other
+ERR2779758_1	Hospitalised patient
+ERR2779759_1	Non-hospitalised person
+ERR2779760_1	Hospitalised patient
+ERR2779761_1	Other
+ERR2779762_1	Hospitalised patient
+ERR2779763_1	Hospitalised patient
+ERR2779764_1	Non-hospitalised person
+ERR2779765_1	Hospitalised patient
+ERR2779766_1	Other
+ERR2779767_1	Hospitalised patient
+ERR2779768_1	Other
+ERR2779769_1	Hospitalised patient
+ERR2779770_1	Hospitalised patient
+ERR2779771_1	Other
+ERR2779772_1	Hospitalised patient
+ERR2779773_1	Hospitalised patient
+ERR2779774_1	Hospitalised patient
+ERR2779775_1	Hospitalised patient
+ERR2779776_1	Hospitalised patient
+ERR2779777_1	Hospitalised patient
+ERR2779778_1	Hospitalised patient
+ERR2779779_1	Other
+ERR2779780_1	Hospitalised patient
+ERR2779781_1	Other
+ERR2779782_1	Hospitalised patient
+ERR2779783_1	Hospitalised patient
+ERR2779784_1	Other
+ERR2779785_1	Other
+ERR2779786_1	Hospitalised patient
+ERR2779787_1	Other
+ERR2779788_1	Other
+ERR2779789_1	Hospitalised patient
+ERR2779790_1	Hospitalised patient
+ERR2779791_1	Hospitalised patient
+ERR2779792_1	Other
+ERR2779793_1	Hospitalised patient
+ERR2779794_1	Other
+ERR2779795_1	Hospitalised patient
+ERR2779796_1	Other
+ERR2779797_1	Hospitalised patient
+ERR2779798_1	Hospitalised patient
+ERR2779799_1	Hospitalised patient
+ERR2779800_1	Hospitalised patient
+ERR2779801_1	Hospitalised patient
+ERR2779802_1	Hospitalised patient
+ERR2779803_1	Other
+ERR2779804_1	Hospitalised patient
+ERR2779805_1	Hospitalised patient
+ERR2779806_1	Hospitalised patient
+ERR2779807_1	Other
+ERR2779808_1	Hospitalised patient
+ERR2779809_1	Hospitalised patient
+ERR2779810_1	Hospitalised patient
+ERR2779811_1	Non-hospitalised person
+ERR2779812_1	Hospitalised patient
+ERR2779813_1	Other
+ERR2779814_1	Other
+ERR2779815_1	Hospitalised patient
+ERR2779816_1	Hospitalised patient
+ERR2779817_1	Hospitalised patient
+ERR2779818_1	Hospitalised patient
+ERR2779819_1	Non-hospitalised person
+ERR2779820_1	Other
+ERR2779821_1	Hospitalised patient
+ERR2779822_1	Hospitalised patient
+ERR2779823_1	Hospitalised patient
+ERR2779824_1	Other
+ERR2779825_1	Hospitalised patient
+ERR2779826_1	Hospitalised patient
+ERR2779827_1	Hospitalised patient
+ERR2779828_1	Hospitalised patient
+ERR2779829_1	Hospitalised patient
+ERR2779830_1	Hospitalised patient
+ERR2779831_1	Other
+ERR2779832_1	Hospitalised patient
+ERR2779833_1	Other
+ERR2779834_1	Non-hospitalised person
+ERR2779835_1	Hospitalised patient
+ERR2779836_1	Non-hospitalised person
+ERR2779837_1	Hospitalised patient
+ERR2779838_1	Hospitalised patient
+ERR2779839_1	Other
+ERR2779840_1	Hospitalised patient
+ERR2779841_1	Human
+ERR2779842_1	Other
+ERR2779843_1	Hospitalised patient
+ERR2779844_1	Hospitalised patient
+ERR2779845_1	Hospitalised patient
+ERR2779846_1	Hospitalised patient
+ERR2779847_1	Hospitalised patient
+ERR2779848_1	Hospitalised patient
+ERR2779849_1	Human
+ERR2779850_1	Other
+ERR2779851_1	Other
+ERR2779852_1	Backcap
+ERR2779853_1	Hospitalised patient
+ERR2779854_1	Other
+ERR2779855_1	Hospitalised patient
+ERR2779856_1	Hospitalised patient
+ERR2779857_1	Hospitalised patient
+ERR2779858_1	Hospitalised patient
+ERR2779859_1	Other
+ERR2779860_1	Hospitalised patient
+ERR2779861_1	Other
+ERR2779862_1	Other
+ERR2779863_1	Hospitalised patient
+ERR2779864_1	Hospitalised patient
+ERR2779865_1	Hospitalised patient
+ERR2779866_1	Hospitalised patient
+ERR2779867_1	Human
+ERR2779868_1	Other
+ERR2779869_1	Hospitalised patient
+ERR2779870_1	Hospitalised patient
+ERR2779871_1	Human
+ERR2779872_1	Other
+ERR2779873_1	Other
+ERR2779874_1	Hospitalised patient
+ERR2779875_1	Hospitalised patient
+ERR2779876_1	Other
+ERR2779877_1	Other
+ERR2779878_1	Hospitalised patient
+ERR2779879_1	Non-hospitalised person
+ERR2779880_1	Hospitalised patient
+ERR2779881_1	Hospitalised patient
+ERR2779882_1	Other
+ERR2779883_1	Hospitalised patient
+ERR2779884_1	Other
+ERR2779885_1	Other
+ERR2779886_1	Other
+ERR2779887_1	Other
+ERR2779888_1	Hospitalised patient
+ERR2779889_1	Hospitalised patient
+ERR2779890_1	Hospitalised patient
+ERR2779891_1	Hospitalised patient
+ERR2779892_1	Human
+ERR2779893_1	Hospitalised patient
+ERR2779894_1	Other
+ERR2779895_1	Hospitalised patient
+ERR2779896_1	Hospitalised patient
+ERR2779897_1	Hospitalised patient
+ERR2779898_1	Hospitalised patient
+ERR2779899_1	Human
+ERR2779900_1	Hospitalised patient
+ERR2779901_1	Hospitalised patient
+ERR2779902_1	Hospitalised patient
+ERR2779903_1	Other
+ERR2779904_1	Hospitalised patient

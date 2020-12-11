@@ -1,0 +1,2027 @@
+26975_1#1_1	Non-hospitalised person
+26975_1#10_1	Non-hospitalised person
+26975_1#100_1	Hospitalised patient
+26975_1#101_1	Hospitalised patient
+26975_1#102_1	Hospitalised patient
+26975_1#103_1	Hospitalised patient
+26975_1#104_1	Hospitalised patient
+26975_1#105_1	Hospitalised patient
+26975_1#106_1	Hospitalised patient
+26975_1#107_1	Hospitalised patient
+26975_1#108_1	Hospitalised patient
+26975_1#109_1	Hospitalised patient
+26975_1#11_1	Non-hospitalised person
+26975_1#110_1	Hospitalised patient
+26975_1#111_1	Hospitalised patient
+26975_1#112_1	Hospitalised patient
+26975_1#113_1	Hospitalised patient
+26975_1#114_1	Hospitalised patient
+26975_1#115_1	Hospitalised patient
+26975_1#116_1	Hospitalised patient
+26975_1#117_1	Hospitalised patient
+26975_1#118_1	Hospitalised patient
+26975_1#119_1	Hospitalised patient
+26975_1#12_1	Non-hospitalised person
+26975_1#120_1	Hospitalised patient
+26975_1#121_1	Hospitalised patient
+26975_1#122_1	Hospitalised patient
+26975_1#123_1	Hospitalised patient
+26975_1#124_1	Hospitalised patient
+26975_1#125_1	Hospitalised patient
+26975_1#126_1	Hospitalised patient
+26975_1#127_1	Hospitalised patient
+26975_1#128_1	Hospitalised patient
+26975_1#129_1	Hospitalised patient
+26975_1#13_1	Non-hospitalised person
+26975_1#130_1	Hospitalised patient
+26975_1#131_1	Hospitalised patient
+26975_1#132_1	Hospitalised patient
+26975_1#133_1	Hospitalised patient
+26975_1#134_1	Hospitalised patient
+26975_1#135_1	Hospitalised patient
+26975_1#136_1	Hospitalised patient
+26975_1#137_1	Hospitalised patient
+26975_1#138_1	Hospitalised patient
+26975_1#139_1	Hospitalised patient
+26975_1#14_1	Non-hospitalised person
+26975_1#140_1	Hospitalised patient
+26975_1#141_1	Hospitalised patient
+26975_1#142_1	Hospitalised patient
+26975_1#143_1	Hospitalised patient
+26975_1#144_1	Hospitalised patient
+26975_1#145_1	Hospitalised patient
+26975_1#146_1	Hospitalised patient
+26975_1#147_1	Hospitalised patient
+26975_1#148_1	Hospitalised patient
+26975_1#149_1	Hospitalised patient
+26975_1#15_1	Non-hospitalised person
+26975_1#150_1	Hospitalised patient
+26975_1#151_1	Hospitalised patient
+26975_1#152_1	Hospitalised patient
+26975_1#153_1	Hospitalised patient
+26975_1#154_1	Hospitalised patient
+26975_1#155_1	Hospitalised patient
+26975_1#156_1	Hospitalised patient
+26975_1#157_1	Hospitalised patient
+26975_1#158_1	Hospitalised patient
+26975_1#16_1	Non-hospitalised person
+26975_1#160_1	Hospitalised patient
+26975_1#161_1	Hospitalised patient
+26975_1#162_1	Hospitalised patient
+26975_1#163_1	Hospitalised patient
+26975_1#164_1	Hospitalised patient
+26975_1#165_1	Hospitalised patient
+26975_1#166_1	Hospitalised patient
+26975_1#167_1	Hospitalised patient
+26975_1#168_1	Hospitalised patient
+26975_1#169_1	Hospitalised patient
+26975_1#17_1	Non-hospitalised person
+26975_1#170_1	Hospitalised patient
+26975_1#171_1	Hospitalised patient
+26975_1#172_1	Hospitalised patient
+26975_1#173_1	Hospitalised patient
+26975_1#174_1	Hospitalised patient
+26975_1#175_1	Hospitalised patient
+26975_1#176_1	Hospitalised patient
+26975_1#177_1	Hospitalised patient
+26975_1#178_1	Hospitalised patient
+26975_1#179_1	Hospitalised patient
+26975_1#18_1	Farm animal
+26975_1#180_1	Hospitalised patient
+26975_1#181_1	Hospitalised patient
+26975_1#182_1	Hospitalised patient
+26975_1#183_1	Hospitalised patient
+26975_1#184_1	Hospitalised patient
+26975_1#185_1	Hospitalised patient
+26975_1#186_1	Hospitalised patient
+26975_1#187_1	Hospitalised patient
+26975_1#188_1	Hospitalised patient
+26975_1#189_1	Hospitalised patient
+26975_1#19_1	Farm animal
+26975_1#190_1	Hospitalised patient
+26975_1#191_1	Hospitalised patient
+26975_1#192_1	Hospitalised patient
+26975_1#193_1	Hospitalised patient
+26975_1#194_1	Hospitalised patient
+26975_1#195_1	Hospitalised patient
+26975_1#196_1	Hospitalised patient
+26975_1#197_1	Hospitalised patient
+26975_1#198_1	Hospitalised patient
+26975_1#199_1	Hospitalised patient
+26975_1#2_1	Non-hospitalised person
+26975_1#20_1	Non-hospitalised person
+26975_1#201_1	Hospitalised patient
+26975_1#202_1	Hospitalised patient
+26975_1#203_1	Hospitalised patient
+26975_1#204_1	Hospitalised patient
+26975_1#205_1	Hospitalised patient
+26975_1#206_1	Hospitalised patient
+26975_1#207_1	Hospitalised patient
+26975_1#208_1	Hospitalised patient
+26975_1#209_1	Hospitalised patient
+26975_1#21_1	Non-hospitalised person
+26975_1#210_1	Hospitalised patient
+26975_1#211_1	Hospitalised patient
+26975_1#212_1	Hospitalised patient
+26975_1#213_1	Hospitalised patient
+26975_1#214_1	Hospitalised patient
+26975_1#215_1	Hospitalised patient
+26975_1#216_1	Hospitalised patient
+26975_1#217_1	Hospitalised patient
+26975_1#218_1	Hospitalised patient
+26975_1#219_1	Hospitalised patient
+26975_1#22_1	Non-hospitalised person
+26975_1#220_1	Hospitalised patient
+26975_1#221_1	Hospitalised patient
+26975_1#222_1	Hospitalised patient
+26975_1#223_1	Hospitalised patient
+26975_1#224_1	Hospitalised patient
+26975_1#225_1	Hospitalised patient
+26975_1#226_1	Hospitalised patient
+26975_1#227_1	Hospitalised patient
+26975_1#228_1	Hospitalised patient
+26975_1#229_1	Hospitalised patient
+26975_1#23_1	Non-hospitalised person
+26975_1#230_1	Hospitalised patient
+26975_1#231_1	Hospitalised patient
+26975_1#232_1	Hospitalised patient
+26975_1#233_1	Hospitalised patient
+26975_1#234_1	Hospitalised patient
+26975_1#235_1	Hospitalised patient
+26975_1#236_1	Hospitalised patient
+26975_1#237_1	Hospitalised patient
+26975_1#238_1	Hospitalised patient
+26975_1#239_1	Hospitalised patient
+26975_1#24_1	Non-hospitalised person
+26975_1#240_1	Hospitalised patient
+26975_1#241_1	Hospitalised patient
+26975_1#242_1	Hospitalised patient
+26975_1#243_1	Hospitalised patient
+26975_1#244_1	Hospitalised patient
+26975_1#245_1	Hospitalised patient
+26975_1#246_1	Hospitalised patient
+26975_1#247_1	Hospitalised patient
+26975_1#248_1	Hospitalised patient
+26975_1#249_1	Hospitalised patient
+26975_1#25_1	Non-hospitalised person
+26975_1#250_1	Hospitalised patient
+26975_1#251_1	Hospitalised patient
+26975_1#252_1	Hospitalised patient
+26975_1#253_1	Hospitalised patient
+26975_1#254_1	Hospitalised patient
+26975_1#255_1	Hospitalised patient
+26975_1#256_1	Hospitalised patient
+26975_1#257_1	Hospitalised patient
+26975_1#258_1	Hospitalised patient
+26975_1#259_1	Hospitalised patient
+26975_1#26_1	Non-hospitalised person
+26975_1#260_1	Hospitalised patient
+26975_1#262_1	Hospitalised patient
+26975_1#263_1	Hospitalised patient
+26975_1#264_1	Hospitalised patient
+26975_1#265_1	Hospitalised patient
+26975_1#266_1	Hospitalised patient
+26975_1#267_1	Hospitalised patient
+26975_1#268_1	Hospitalised patient
+26975_1#269_1	Hospitalised patient
+26975_1#27_1	Non-hospitalised person
+26975_1#270_1	Hospitalised patient
+26975_1#271_1	Hospitalised patient
+26975_1#272_1	Hospitalised patient
+26975_1#273_1	Hospitalised patient
+26975_1#274_1	Hospitalised patient
+26975_1#275_1	Hospitalised patient
+26975_1#276_1	Hospitalised patient
+26975_1#277_1	Hospitalised patient
+26975_1#278_1	Hospitalised patient
+26975_1#279_1	Hospitalised patient
+26975_1#28_1	Non-hospitalised person
+26975_1#280_1	Hospitalised patient
+26975_1#281_1	Hospitalised patient
+26975_1#282_1	Hospitalised patient
+26975_1#283_1	Hospitalised patient
+26975_1#284_1	Hospitalised patient
+26975_1#285_1	Hospitalised patient
+26975_1#286_1	Hospitalised patient
+26975_1#287_1	Hospitalised patient
+26975_1#288_1	Hospitalised patient
+26975_1#289_1	Hospitalised patient
+26975_1#29_1	Non-hospitalised person
+26975_1#290_1	Hospitalised patient
+26975_1#291_1	Hospitalised patient
+26975_1#292_1	Hospitalised patient
+26975_1#293_1	Hospitalised patient
+26975_1#294_1	Hospitalised patient
+26975_1#295_1	Hospitalised patient
+26975_1#296_1	Hospitalised patient
+26975_1#297_1	Hospitalised patient
+26975_1#298_1	Hospitalised patient
+26975_1#299_1	Hospitalised patient
+26975_1#3_1	Farm animal
+26975_1#30_1	Non-hospitalised person
+26975_1#301_1	Hospitalised patient
+26975_1#302_1	Hospitalised patient
+26975_1#303_1	Hospitalised patient
+26975_1#304_1	Hospitalised patient
+26975_1#305_1	Hospitalised patient
+26975_1#306_1	Hospitalised patient
+26975_1#307_1	Hospitalised patient
+26975_1#308_1	Hospitalised patient
+26975_1#309_1	Hospitalised patient
+26975_1#31_1	Non-hospitalised person
+26975_1#310_1	Hospitalised patient
+26975_1#311_1	Hospitalised patient
+26975_1#312_1	Hospitalised patient
+26975_1#313_1	Hospitalised patient
+26975_1#314_1	Hospitalised patient
+26975_1#315_1	Hospitalised patient
+26975_1#316_1	Hospitalised patient
+26975_1#318_1	Hospitalised patient
+26975_1#319_1	Hospitalised patient
+26975_1#32_1	Non-hospitalised person
+26975_1#320_1	Hospitalised patient
+26975_1#321_1	Hospitalised patient
+26975_1#322_1	Hospitalised patient
+26975_1#323_1	Hospitalised patient
+26975_1#324_1	Hospitalised patient
+26975_1#325_1	Hospitalised patient
+26975_1#327_1	Hospitalised patient
+26975_1#328_1	Hospitalised patient
+26975_1#329_1	Hospitalised patient
+26975_1#33_1	Non-hospitalised person
+26975_1#330_1	Hospitalised patient
+26975_1#332_1	Hospitalised patient
+26975_1#333_1	Hospitalised patient
+26975_1#334_1	Hospitalised patient
+26975_1#335_1	Hospitalised patient
+26975_1#336_1	Hospitalised patient
+26975_1#337_1	Hospitalised patient
+26975_1#338_1	Hospitalised patient
+26975_1#339_1	Hospitalised patient
+26975_1#34_1	Non-hospitalised person
+26975_1#340_1	Hospitalised patient
+26975_1#341_1	Hospitalised patient
+26975_1#342_1	Hospitalised patient
+26975_1#343_1	Hospitalised patient
+26975_1#344_1	Hospitalised patient
+26975_1#345_1	Hospitalised patient
+26975_1#346_1	Hospitalised patient
+26975_1#347_1	Hospitalised patient
+26975_1#348_1	Hospitalised patient
+26975_1#349_1	Hospitalised patient
+26975_1#35_1	Non-hospitalised person
+26975_1#350_1	Hospitalised patient
+26975_1#351_1	Hospitalised patient
+26975_1#352_1	Hospitalised patient
+26975_1#354_1	Hospitalised patient
+26975_1#355_1	Hospitalised patient
+26975_1#356_1	Hospitalised patient
+26975_1#357_1	Hospitalised patient
+26975_1#358_1	Hospitalised patient
+26975_1#359_1	Hospitalised patient
+26975_1#36_1	Non-hospitalised person
+26975_1#360_1	Hospitalised patient
+26975_1#361_1	Hospitalised patient
+26975_1#362_1	Hospitalised patient
+26975_1#363_1	Hospitalised patient
+26975_1#364_1	Hospitalised patient
+26975_1#365_1	Hospitalised patient
+26975_1#366_1	Hospitalised patient
+26975_1#367_1	Hospitalised patient
+26975_1#368_1	Hospitalised patient
+26975_1#369_1	Hospitalised patient
+26975_1#37_1	Non-hospitalised person
+26975_1#370_1	Hospitalised patient
+26975_1#371_1	Hospitalised patient
+26975_1#372_1	Hospitalised patient
+26975_1#373_1	Hospitalised patient
+26975_1#374_1	Hospitalised patient
+26975_1#375_1	Hospitalised patient
+26975_1#376_1	Hospitalised patient
+26975_1#377_1	Hospitalised patient
+26975_1#378_1	Hospitalised patient
+26975_1#379_1	Hospitalised patient
+26975_1#38_1	Non-hospitalised person
+26975_1#380_1	Hospitalised patient
+26975_1#381_1	Hospitalised patient
+26975_1#382_1	Hospitalised patient
+26975_1#383_1	Hospitalised patient
+26975_1#384_1	Hospitalised patient
+26975_1#39_1	Non-hospitalised person
+26975_1#4_1	Non-hospitalised person
+26975_1#40_1	Non-hospitalised person
+26975_1#41_1	Non-hospitalised person
+26975_1#42_1	Non-hospitalised person
+26975_1#43_1	Non-hospitalised person
+26975_1#44_1	Non-hospitalised person
+26975_1#45_1	Non-hospitalised person
+26975_1#46_1	Non-hospitalised person
+26975_1#47_1	Non-hospitalised person
+26975_1#48_1	Non-hospitalised person
+26975_1#49_1	Non-hospitalised person
+26975_1#5_1	Non-hospitalised person
+26975_1#50_1	Non-hospitalised person
+26975_1#51_1	Non-hospitalised person
+26975_1#52_1	Non-hospitalised person
+26975_1#53_1	Non-hospitalised person
+26975_1#54_1	Non-hospitalised person
+26975_1#55_1	Non-hospitalised person
+26975_1#56_1	Non-hospitalised person
+26975_1#57_1	Non-hospitalised person
+26975_1#58_1	Non-hospitalised person
+26975_1#59_1	Non-hospitalised person
+26975_1#6_1	Non-hospitalised person
+26975_1#60_1	Non-hospitalised person
+26975_1#61_1	Non-hospitalised person
+26975_1#62_1	Non-hospitalised person
+26975_1#63_1	Non-hospitalised person
+26975_1#64_1	Non-hospitalised person
+26975_1#65_1	Non-hospitalised person
+26975_1#66_1	Non-hospitalised person
+26975_1#67_1	Non-hospitalised person
+26975_1#68_1	Non-hospitalised person
+26975_1#69_1	Non-hospitalised person
+26975_1#7_1	Non-hospitalised person
+26975_1#70_1	Non-hospitalised person
+26975_1#71_1	Non-hospitalised person
+26975_1#72_1	Hospitalised patient
+26975_1#73_1	Hospitalised patient
+26975_1#74_1	Pet animal
+26975_1#75_1	Farm animal
+26975_1#76_1	Wild animal (Mammal)
+26975_1#77_1	Hospitalised patient
+26975_1#78_1	Hospitalised patient
+26975_1#79_1	Hospitalised patient
+26975_1#8_1	Non-hospitalised person
+26975_1#80_1	Hospitalised patient
+26975_1#81_1	Hospitalised patient
+26975_1#83_1	Hospitalised patient
+26975_1#84_1	Hospitalised patient
+26975_1#85_1	Hospitalised patient
+26975_1#86_1	Hospitalised patient
+26975_1#87_1	Hospitalised patient
+26975_1#88_1	Hospitalised patient
+26975_1#89_1	Hospitalised patient
+26975_1#9_1	Non-hospitalised person
+26975_1#90_1	Hospitalised patient
+26975_1#92_1	Hospitalised patient
+26975_1#93_1	Hospitalised patient
+26975_1#94_1	Hospitalised patient
+26975_1#95_1	Hospitalised patient
+26975_1#96_1	Hospitalised patient
+26975_1#97_1	Hospitalised patient
+26975_1#98_1	Hospitalised patient
+26975_1#99_1	Hospitalised patient
+26975_2#1_1	Hospitalised patient
+26975_2#10_1	Hospitalised patient
+26975_2#100_1	Wild animal (Bird)
+26975_2#101_1	Wild animal (Bird)
+26975_2#102_1	Wild animal (Bird)
+26975_2#103_1	Wild animal (Bird)
+26975_2#104_1	Wild animal (Bird)
+26975_2#105_1	Wild animal (Bird)
+26975_2#106_1	Wild animal (Bird)
+26975_2#107_1	Wild animal (Bird)
+26975_2#108_1	Wild animal (Bird)
+26975_2#109_1	Wild animal (Bird)
+26975_2#11_1	Hospitalised patient
+26975_2#110_1	Wild animal (Bird)
+26975_2#111_1	Wild animal (Bird)
+26975_2#112_1	Wild animal (Bird)
+26975_2#113_1	Wild animal (Bird)
+26975_2#114_1	Wild animal (Bird)
+26975_2#115_1	Wild animal (Bird)
+26975_2#116_1	Wild animal (Bird)
+26975_2#117_1	Wild animal (Bird)
+26975_2#118_1	Wild animal (Bird)
+26975_2#119_1	Wild animal (Bird)
+26975_2#12_1	Hospitalised patient
+26975_2#120_1	Wild animal (Bird)
+26975_2#121_1	Wild animal (Bird)
+26975_2#122_1	Wild animal (Bird)
+26975_2#123_1	Wild animal (Bird)
+26975_2#125_1	Wild animal (Bird)
+26975_2#126_1	Wild animal (Bird)
+26975_2#127_1	Wild animal (Bird)
+26975_2#128_1	Wild animal (Bird)
+26975_2#129_1	Wild animal (Bird)
+26975_2#13_1	Hospitalised patient
+26975_2#130_1	Wild animal (Bird)
+26975_2#132_1	Wild animal (Bird)
+26975_2#133_1	Wild animal (Bird)
+26975_2#135_1	Wild animal (Bird)
+26975_2#137_1	Hospitalised patient
+26975_2#138_1	Hospitalised patient
+26975_2#139_1	Hospitalised patient
+26975_2#14_1	Pet animal
+26975_2#140_1	Hospitalised patient
+26975_2#141_1	Hospitalised patient
+26975_2#142_1	Hospitalised patient
+26975_2#143_1	Hospitalised patient
+26975_2#144_1	Farm animal
+26975_2#145_1	Farm animal
+26975_2#146_1	Non-hospitalised person
+26975_2#147_1	Farm animal
+26975_2#148_1	Non-hospitalised person
+26975_2#149_1	Hospitalised patient
+26975_2#15_1	Human (Old isolate)
+26975_2#150_1	Non-hospitalised person
+26975_2#151_1	Non-hospitalised person
+26975_2#152_1	Wild animal (Insect)
+26975_2#153_1	Farm animal
+26975_2#154_1	Farm animal
+26975_2#155_1	Hospitalised patient
+26975_2#156_1	Hospitalised patient
+26975_2#157_1	Hospitalised patient
+26975_2#158_1	Hospitalised patient
+26975_2#159_1	Hospitalised patient
+26975_2#16_1	Environment
+26975_2#160_1	Hospitalised patient
+26975_2#161_1	Hospitalised patient
+26975_2#162_1	Hospitalised patient
+26975_2#163_1	Hospitalised patient
+26975_2#164_1	Hospitalised patient
+26975_2#165_1	Hospitalised patient
+26975_2#166_1	Hospitalised patient
+26975_2#167_1	Hospitalised patient
+26975_2#168_1	Hospitalised patient
+26975_2#169_1	Hospitalised patient
+26975_2#17_1	Human (Old isolate)
+26975_2#170_1	Hospitalised patient
+26975_2#171_1	Hospitalised patient
+26975_2#172_1	Hospitalised patient
+26975_2#173_1	Hospitalised patient
+26975_2#174_1	Hospitalised patient
+26975_2#175_1	Hospitalised patient
+26975_2#176_1	Hospitalised patient
+26975_2#177_1	Hospitalised patient
+26975_2#178_1	Hospitalised patient
+26975_2#179_1	Hospitalised patient
+26975_2#18_1	Food product
+26975_2#180_1	Hospitalised patient
+26975_2#181_1	Hospitalised patient
+26975_2#182_1	Hospitalised patient
+26975_2#183_1	Hospitalised patient
+26975_2#184_1	Hospitalised patient
+26975_2#185_1	Hospitalised patient
+26975_2#186_1	Hospitalised patient
+26975_2#187_1	Hospitalised patient
+26975_2#188_1	Hospitalised patient
+26975_2#189_1	Hospitalised patient
+26975_2#19_1	Food product
+26975_2#190_1	Hospitalised patient
+26975_2#191_1	Hospitalised patient
+26975_2#192_1	Hospitalised patient
+26975_2#193_1	Hospitalised patient
+26975_2#194_1	Hospitalised patient
+26975_2#195_1	Hospitalised patient
+26975_2#196_1	Hospitalised patient
+26975_2#197_1	Hospitalised patient
+26975_2#198_1	Hospitalised patient
+26975_2#199_1	Hospitalised patient
+26975_2#2_1	Hospitalised patient
+26975_2#20_1	Human (Old isolate)
+26975_2#200_1	Hospitalised patient
+26975_2#201_1	Hospitalised patient
+26975_2#202_1	Hospitalised patient
+26975_2#203_1	Hospitalised patient
+26975_2#204_1	Hospitalised patient
+26975_2#205_1	Hospitalised patient
+26975_2#206_1	Hospitalised patient
+26975_2#207_1	Hospitalised patient
+26975_2#208_1	Hospitalised patient
+26975_2#209_1	Hospitalised patient
+26975_2#21_1	Food product
+26975_2#210_1	Hospitalised patient
+26975_2#211_1	Hospitalised patient
+26975_2#212_1	Hospitalised patient
+26975_2#213_1	Hospitalised patient
+26975_2#214_1	Hospitalised patient
+26975_2#215_1	Hospitalised patient
+26975_2#216_1	Hospitalised patient
+26975_2#217_1	Hospitalised patient
+26975_2#218_1	Hospitalised patient
+26975_2#219_1	Hospitalised patient
+26975_2#22_1	Human (Old isolate)
+26975_2#220_1	Hospitalised patient
+26975_2#221_1	Hospitalised patient
+26975_2#222_1	Hospitalised patient
+26975_2#223_1	Hospitalised patient
+26975_2#224_1	Hospitalised patient
+26975_2#225_1	Hospitalised patient
+26975_2#226_1	Hospitalised patient
+26975_2#227_1	Human (Old isolate)
+26975_2#228_1	Human (Old isolate)
+26975_2#229_1	Wild animal (Bird)
+26975_2#23_1	Environment
+26975_2#230_1	Wild animal (Bird)
+26975_2#231_1	Wild animal (Bird)
+26975_2#232_1	Wild animal (Bird)
+26975_2#233_1	Wild animal (Bird)
+26975_2#234_1	Wild animal (Bird)
+26975_2#235_1	Wild animal (Bird)
+26975_2#236_1	Wild animal (Bird)
+26975_2#237_1	Wild animal (Bird)
+26975_2#238_1	Wild animal (Bird)
+26975_2#239_1	Wild animal (Bird)
+26975_2#24_1	Human (Old isolate)
+26975_2#240_1	Wild animal (Bird)
+26975_2#241_1	Wild animal (Bird)
+26975_2#242_1	Non-hospitalised person
+26975_2#243_1	Non-hospitalised person
+26975_2#244_1	Hospitalised patient
+26975_2#245_1	Hospitalised patient
+26975_2#246_1	Hospitalised patient
+26975_2#247_1	Hospitalised patient
+26975_2#248_1	Hospitalised patient
+26975_2#25_1	Human (Old isolate)
+26975_2#250_1	Hospitalised patient
+26975_2#26_1	Human (Old isolate)
+26975_2#27_1	Human (Old isolate)
+26975_2#29_1	Human (Old isolate)
+26975_2#3_1	Hospitalised patient
+26975_2#30_1	Human (Old isolate)
+26975_2#31_1	Human (Old isolate)
+26975_2#32_1	Human (Old isolate)
+26975_2#33_1	Human (Old isolate)
+26975_2#34_1	Human (Old isolate)
+26975_2#35_1	Human (Old isolate)
+26975_2#36_1	Human (Old isolate)
+26975_2#37_1	Human (Old isolate)
+26975_2#38_1	Human (Old isolate)
+26975_2#39_1	Human (Old isolate)
+26975_2#4_1	Hospitalised patient
+26975_2#40_1	Human (Old isolate)
+26975_2#41_1	Human (Old isolate)
+26975_2#42_1	Human (Old isolate)
+26975_2#43_1	Human (Old isolate)
+26975_2#44_1	Human (Old isolate)
+26975_2#45_1	Human (Old isolate)
+26975_2#46_1	Human (Old isolate)
+26975_2#47_1	Wild animal (Bird)
+26975_2#48_1	Wild animal (Fish)
+26975_2#49_1	Wild animal (Mammal)
+26975_2#5_1	Hospitalised patient
+26975_2#50_1	Wild animal (Bird)
+26975_2#51_1	Wild animal (Bird)
+26975_2#52_1	Wild animal (Bird)
+26975_2#53_1	Wild animal (Mammal)
+26975_2#54_1	Wild animal (Bird)
+26975_2#55_1	Wild animal (Bird)
+26975_2#56_1	Wild animal (Bird)
+26975_2#58_1	Wild animal (Bird)
+26975_2#59_1	Wild animal (Bird)
+26975_2#6_1	Hospitalised patient
+26975_2#60_1	Wild animal (Bird)
+26975_2#61_1	Wild animal (Bird)
+26975_2#62_1	Wild animal (Bird)
+26975_2#63_1	Wild animal (Bird)
+26975_2#64_1	Wild animal (Bird)
+26975_2#67_1	Wild animal (Bird)
+26975_2#68_1	Wild animal (Bird)
+26975_2#69_1	Wild animal (Bird)
+26975_2#7_1	Hospitalised patient
+26975_2#70_1	Wild animal (Bird)
+26975_2#72_1	Wild animal (Bird)
+26975_2#73_1	Wild animal (Bird)
+26975_2#74_1	Wild animal (Bird)
+26975_2#75_1	Wild animal (Bird)
+26975_2#76_1	Wild animal (Bird)
+26975_2#77_1	Wild animal (Bird)
+26975_2#78_1	Wild animal (Bird)
+26975_2#8_1	Hospitalised patient
+26975_2#80_1	Wild animal (Bird)
+26975_2#81_1	Wild animal (Bird)
+26975_2#82_1	Wild animal (Bird)
+26975_2#83_1	Wild animal (Bird)
+26975_2#84_1	Wild animal (Bird)
+26975_2#85_1	Wild animal (Bird)
+26975_2#86_1	Wild animal (Bird)
+26975_2#87_1	Wild animal (Bird)
+26975_2#88_1	Wild animal (Bird)
+26975_2#89_1	Wild animal (Bird)
+26975_2#9_1	Hospitalised patient
+26975_2#90_1	Wild animal (Bird)
+26975_2#91_1	Wild animal (Bird)
+26975_2#92_1	Wild animal (Bird)
+26975_2#93_1	Wild animal (Bird)
+26975_2#94_1	Wild animal (Bird)
+26975_2#95_1	Wild animal (Bird)
+26975_2#96_1	Wild animal (Bird)
+26975_2#97_1	Wild animal (Bird)
+26975_2#98_1	Wild animal (Bird)
+26975_2#99_1	Wild animal (Bird)
+27688_1#100_1	Hospitalised patient
+27688_1#101_1	Hospitalised patient
+27688_1#102_1	Hospitalised patient
+27688_1#103_1	Wild animal (Mammal)
+27688_1#104_1	Farm animal
+27688_1#105_1	Non-hospitalised person
+27688_1#106_1	Hospitalised patient
+27688_1#107_1	Wild animal (Mammal)
+27688_1#108_1	Farm animal
+27688_1#109_1	Non-hospitalised person
+27688_1#11_1	Environment
+27688_1#110_1	Hospitalised patient
+27688_1#111_1	Wild animal (Bird)
+27688_1#112_1	Wild animal (Bird)
+27688_1#113_1	Hospitalised patient
+27688_1#114_1	Hospitalised patient
+27688_1#115_1	Wild animal (Bird)
+27688_1#116_1	Environment
+27688_1#117_1	Hospitalised patient
+27688_1#118_1	Non-hospitalised person
+27688_1#119_1	Wild animal (Mammal)
+27688_1#12_1	Hospitalised patient
+27688_1#120_1	Environment
+27688_1#121_1	Hospitalised patient
+27688_1#122_1	Hospitalised patient
+27688_1#123_1	Wild animal (Mammal)
+27688_1#124_1	Farm animal
+27688_1#125_1	Hospitalised patient
+27688_1#126_1	Hospitalised patient
+27688_1#127_1	Wild animal (Mammal)
+27688_1#128_1	Farm animal
+27688_1#129_1	Hospitalised patient
+27688_1#13_1	Hospitalised patient
+27688_1#130_1	Hospitalised patient
+27688_1#131_1	Wild animal (Mammal)
+27688_1#132_1	Farm animal
+27688_1#133_1	Non-hospitalised person
+27688_1#134_1	Hospitalised patient
+27688_1#135_1	Wild animal (Mammal)
+27688_1#136_1	Pet animal
+27688_1#137_1	Hospitalised patient
+27688_1#138_1	Hospitalised patient
+27688_1#139_1	Wild animal (Mammal)
+27688_1#140_1	Wild animal (Mammal)
+27688_1#141_1	Hospitalised patient
+27688_1#142_1	Hospitalised patient
+27688_1#143_1	Wild animal (Mammal)
+27688_1#144_1	Environment
+27688_1#145_1	Hospitalised patient
+27688_1#146_1	Hospitalised patient
+27688_1#147_1	Wild animal (Mammal)
+27688_1#148_1	Farm animal
+27688_1#149_1	Hospitalised patient
+27688_1#15_1	Hospitalised patient
+27688_1#150_1	Hospitalised patient
+27688_1#151_1	Wild animal (Mammal)
+27688_1#152_1	Farm animal
+27688_1#153_1	Hospitalised patient
+27688_1#154_1	Hospitalised patient
+27688_1#155_1	Wild animal (Mammal)
+27688_1#156_1	Farm animal
+27688_1#157_1	Hospitalised patient
+27688_1#158_1	Hospitalised patient
+27688_1#159_1	Wild animal (Mammal)
+27688_1#16_1	Hospitalised patient
+27688_1#160_1	Pet animal
+27688_1#161_1	Hospitalised patient
+27688_1#162_1	Hospitalised patient
+27688_1#163_1	Wild animal (Mammal)
+27688_1#164_1	Wild animal (Mammal)
+27688_1#165_1	Hospitalised patient
+27688_1#166_1	Hospitalised patient
+27688_1#167_1	Wild animal (Bird)
+27688_1#169_1	Non-hospitalised person
+27688_1#17_1	Hospitalised patient
+27688_1#170_1	Non-hospitalised person
+27688_1#171_1	Wild animal (Mammal)
+27688_1#172_1	Environment
+27688_1#173_1	Non-hospitalised person
+27688_1#174_1	Hospitalised patient
+27688_1#175_1	Wild animal (Bird)
+27688_1#176_1	Farm animal
+27688_1#177_1	Hospitalised patient
+27688_1#178_1	Hospitalised patient
+27688_1#179_1	Wild animal (Mammal)
+27688_1#180_1	Farm animal
+27688_1#181_1	Hospitalised patient
+27688_1#182_1	Hospitalised patient
+27688_1#183_1	Wild animal (Mammal)
+27688_1#184_1	Farm animal
+27688_1#185_1	Non-hospitalised person
+27688_1#186_1	Hospitalised patient
+27688_1#187_1	Non-hospitalised person
+27688_1#188_1	Wild animal (Mammal)
+27688_1#189_1	Hospitalised patient
+27688_1#19_1	Farm animal
+27688_1#190_1	Hospitalised patient
+27688_1#191_1	Hospitalised patient
+27688_1#192_1	Wild animal (Bird)
+27688_1#193_1	Hospitalised patient
+27688_1#194_1	Non-hospitalised person
+27688_1#195_1	Hospitalised patient
+27688_1#196_1	Wild animal (Mammal)
+27688_1#197_1	Hospitalised patient
+27688_1#198_1	Hospitalised patient
+27688_1#199_1	Hospitalised patient
+27688_1#2_1	Farm animal
+27688_1#20_1	Hospitalised patient
+27688_1#200_1	Wild animal (Bird)
+27688_1#201_1	Hospitalised patient
+27688_1#202_1	Hospitalised patient
+27688_1#203_1	Hospitalised patient
+27688_1#204_1	Wild animal (Mammal)
+27688_1#205_1	Hospitalised patient
+27688_1#206_1	Hospitalised patient
+27688_1#207_1	Hospitalised patient
+27688_1#208_1	Wild animal (Mammal)
+27688_1#209_1	Hospitalised patient
+27688_1#21_1	Hospitalised patient
+27688_1#210_1	Hospitalised patient
+27688_1#211_1	Hospitalised patient
+27688_1#212_1	Wild animal (Mammal)
+27688_1#213_1	Hospitalised patient
+27688_1#214_1	Hospitalised patient
+27688_1#215_1	Non-hospitalised person
+27688_1#216_1	Wild animal (Bird)
+27688_1#217_1	Hospitalised patient
+27688_1#218_1	Hospitalised patient
+27688_1#219_1	Hospitalised patient
+27688_1#220_1	Wild animal (Mammal)
+27688_1#221_1	Hospitalised patient
+27688_1#222_1	Non-hospitalised person
+27688_1#223_1	Hospitalised patient
+27688_1#224_1	Wild animal (Bird)
+27688_1#225_1	Hospitalised patient
+27688_1#226_1	Hospitalised patient
+27688_1#227_1	Hospitalised patient
+27688_1#228_1	Wild animal (Mammal)
+27688_1#229_1	Hospitalised patient
+27688_1#23_1	Farm animal
+27688_1#230_1	Non-hospitalised person
+27688_1#231_1	Hospitalised patient
+27688_1#232_1	Wild animal (Bird)
+27688_1#233_1	Hospitalised patient
+27688_1#234_1	Hospitalised patient
+27688_1#235_1	Non-hospitalised person
+27688_1#236_1	Wild animal (Mammal)
+27688_1#237_1	Hospitalised patient
+27688_1#238_1	Hospitalised patient
+27688_1#239_1	Non-hospitalised person
+27688_1#24_1	Hospitalised patient
+27688_1#240_1	Wild animal (Bird)
+27688_1#241_1	Hospitalised patient
+27688_1#242_1	Hospitalised patient
+27688_1#243_1	Hospitalised patient
+27688_1#244_1	Wild animal (Bird)
+27688_1#245_1	Hospitalised patient
+27688_1#246_1	Hospitalised patient
+27688_1#247_1	Hospitalised patient
+27688_1#248_1	Wild animal (Bird)
+27688_1#249_1	Hospitalised patient
+27688_1#25_1	Non-hospitalised person
+27688_1#250_1	Hospitalised patient
+27688_1#251_1	Non-hospitalised person
+27688_1#252_1	Wild animal (Mammal)
+27688_1#253_1	Hospitalised patient
+27688_1#254_1	Non-hospitalised person
+27688_1#255_1	Non-hospitalised person
+27688_1#256_1	Wild animal (Bird)
+27688_1#257_1	Hospitalised patient
+27688_1#258_1	Hospitalised patient
+27688_1#259_1	Non-hospitalised person
+27688_1#260_1	Wild animal (Mammal)
+27688_1#261_1	Hospitalised patient
+27688_1#262_1	Non-hospitalised person
+27688_1#263_1	Hospitalised patient
+27688_1#264_1	Wild animal (Bird)
+27688_1#265_1	Hospitalised patient
+27688_1#266_1	Non-hospitalised person
+27688_1#267_1	Hospitalised patient
+27688_1#268_1	Wild animal (Bird)
+27688_1#269_1	Hospitalised patient
+27688_1#27_1	Farm animal
+27688_1#270_1	Non-hospitalised person
+27688_1#271_1	Non-hospitalised person
+27688_1#272_1	Environment
+27688_1#273_1	Food product
+27688_1#274_1	Hospitalised patient
+27688_1#275_1	Hospitalised patient
+27688_1#276_1	Non-hospitalised person
+27688_1#277_1	Farm animal
+27688_1#278_1	Hospitalised patient
+27688_1#279_1	Hospitalised patient
+27688_1#28_1	Hospitalised patient
+27688_1#280_1	Hospitalised patient
+27688_1#281_1	Farm animal
+27688_1#282_1	Hospitalised patient
+27688_1#283_1	Hospitalised patient
+27688_1#284_1	Hospitalised patient
+27688_1#285_1	Farm animal
+27688_1#286_1	Hospitalised patient
+27688_1#287_1	Non-hospitalised person
+27688_1#288_1	Non-hospitalised person
+27688_1#289_1	Wild animal (Bird)
+27688_1#29_1	Hospitalised patient
+27688_1#290_1	Hospitalised patient
+27688_1#291_1	Non-hospitalised person
+27688_1#292_1	Non-hospitalised person
+27688_1#293_1	Wild animal (Bird)
+27688_1#295_1	Hospitalised patient
+27688_1#296_1	Non-hospitalised person
+27688_1#297_1	Environment
+27688_1#298_1	Hospitalised patient
+27688_1#299_1	Hospitalised patient
+27688_1#3_1	Hospitalised patient
+27688_1#300_1	Hospitalised patient
+27688_1#301_1	Hospitalised patient
+27688_1#302_1	Farm animal
+27688_1#303_1	Hospitalised patient
+27688_1#304_1	Non-hospitalised person
+27688_1#305_1	Non-hospitalised person
+27688_1#306_1	Farm animal
+27688_1#307_1	Hospitalised patient
+27688_1#308_1	Hospitalised patient
+27688_1#309_1	Non-hospitalised person
+27688_1#31_1	Wild animal (Bird)
+27688_1#310_1	Farm animal
+27688_1#311_1	Hospitalised patient
+27688_1#312_1	Hospitalised patient
+27688_1#313_1	Non-hospitalised person
+27688_1#314_1	Farm animal
+27688_1#315_1	Hospitalised patient
+27688_1#316_1	Hospitalised patient
+27688_1#317_1	Hospitalised patient
+27688_1#318_1	Wild animal (Bird)
+27688_1#319_1	Hospitalised patient
+27688_1#32_1	Hospitalised patient
+27688_1#320_1	Hospitalised patient
+27688_1#321_1	Wild animal (Mammal)
+27688_1#322_1	Farm animal
+27688_1#323_1	Hospitalised patient
+27688_1#324_1	Hospitalised patient
+27688_1#325_1	Wild animal (Mammal)
+27688_1#326_1	Farm animal
+27688_1#327_1	Hospitalised patient
+27688_1#328_1	Non-hospitalised person
+27688_1#329_1	Wild animal (Bird)
+27688_1#33_1	Non-hospitalised person
+27688_1#330_1	Farm animal
+27688_1#331_1	Hospitalised patient
+27688_1#332_1	Hospitalised patient
+27688_1#333_1	Wild animal (Bird)
+27688_1#334_1	Wild animal (Bird)
+27688_1#335_1	Hospitalised patient
+27688_1#336_1	Non-hospitalised person
+27688_1#337_1	Wild animal (Mammal)
+27688_1#339_1	Hospitalised patient
+27688_1#341_1	Wild animal (Mammal)
+27688_1#342_1	Environment
+27688_1#344_1	Hospitalised patient
+27688_1#345_1	Wild animal (Bird)
+27688_1#347_1	Hospitalised patient
+27688_1#348_1	Hospitalised patient
+27688_1#349_1	Wild animal (Mammal)
+27688_1#35_1	Environment
+27688_1#350_1	Farm animal
+27688_1#351_1	Hospitalised patient
+27688_1#352_1	Hospitalised patient
+27688_1#353_1	Wild animal (Mammal)
+27688_1#354_1	Farm animal
+27688_1#355_1	Hospitalised patient
+27688_1#356_1	Hospitalised patient
+27688_1#357_1	Wild animal (Bird)
+27688_1#358_1	Farm animal
+27688_1#359_1	Hospitalised patient
+27688_1#36_1	Hospitalised patient
+27688_1#360_1	Hospitalised patient
+27688_1#361_1	Wild animal (Mammal)
+27688_1#362_1	Farm animal
+27688_1#363_1	Hospitalised patient
+27688_1#364_1	Non-hospitalised person
+27688_1#365_1	Wild animal (Mammal)
+27688_1#366_1	Environment
+27688_1#367_1	Hospitalised patient
+27688_1#368_1	Non-hospitalised person
+27688_1#369_1	Wild animal (Mammal)
+27688_1#37_1	Non-hospitalised person
+27688_1#370_1	Environment
+27688_1#371_1	Hospitalised patient
+27688_1#372_1	Hospitalised patient
+27688_1#373_1	Wild animal (Mammal)
+27688_1#374_1	Hospitalised patient
+27688_1#375_1	Hospitalised patient
+27688_1#376_1	Hospitalised patient
+27688_1#377_1	Wild animal (Bird)
+27688_1#378_1	Farm animal
+27688_1#379_1	Hospitalised patient
+27688_1#380_1	Hospitalised patient
+27688_1#381_1	Wild animal (Mammal)
+27688_1#382_1	Farm animal
+27688_1#383_1	Hospitalised patient
+27688_1#384_1	Non-hospitalised person
+27688_1#39_1	Environment
+27688_1#4_1	Hospitalised patient
+27688_1#40_1	Hospitalised patient
+27688_1#41_1	Hospitalised patient
+27688_1#43_1	Hospitalised patient
+27688_1#44_1	Hospitalised patient
+27688_1#45_1	Hospitalised patient
+27688_1#46_1	Wild animal (Mammal)
+27688_1#47_1	Farm animal
+27688_1#48_1	Hospitalised patient
+27688_1#49_1	Hospitalised patient
+27688_1#5_1	Hospitalised patient
+27688_1#50_1	Wild animal (Mammal)
+27688_1#51_1	Farm animal
+27688_1#52_1	Hospitalised patient
+27688_1#53_1	Non-hospitalised person
+27688_1#54_1	Wild animal (Bird)
+27688_1#55_1	Farm animal
+27688_1#56_1	Hospitalised patient
+27688_1#57_1	Hospitalised patient
+27688_1#58_1	Wild animal (Mammal)
+27688_1#59_1	Farm animal
+27688_1#60_1	Hospitalised patient
+27688_1#61_1	Hospitalised patient
+27688_1#62_1	Wild animal (Mammal)
+27688_1#63_1	Environment
+27688_1#64_1	Hospitalised patient
+27688_1#65_1	Non-hospitalised person
+27688_1#66_1	Wild animal (Mammal)
+27688_1#67_1	Environment
+27688_1#68_1	Hospitalised patient
+27688_1#69_1	Non-hospitalised person
+27688_1#7_1	Environment
+27688_1#71_1	Hospitalised patient
+27688_1#72_1	Hospitalised patient
+27688_1#73_1	Hospitalised patient
+27688_1#74_1	Wild animal (Mammal)
+27688_1#75_1	Farm animal
+27688_1#76_1	Hospitalised patient
+27688_1#77_1	Hospitalised patient
+27688_1#78_1	Wild animal (Bird)
+27688_1#79_1	Farm animal
+27688_1#8_1	Hospitalised patient
+27688_1#80_1	Hospitalised patient
+27688_1#81_1	Hospitalised patient
+27688_1#82_1	Wild animal (Mammal)
+27688_1#83_1	Farm animal
+27688_1#84_1	Hospitalised patient
+27688_1#85_1	Hospitalised patient
+27688_1#86_1	Wild animal (Bird)
+27688_1#87_1	Pet animal
+27688_1#88_1	Hospitalised patient
+27688_1#89_1	Non-hospitalised person
+27688_1#9_1	Non-hospitalised person
+27688_1#90_1	Wild animal (Mammal)
+27688_1#91_1	Environment
+27688_1#92_1	Hospitalised patient
+27688_1#93_1	Non-hospitalised person
+27688_1#94_1	Wild animal (Mammal)
+27688_1#95_1	Environment
+27688_1#96_1	Hospitalised patient
+27688_1#97_1	Hospitalised patient
+27688_1#98_1	Hospitalised patient
+27688_1#99_1	Wild animal (Mammal)
+27725_1#100_1	Wild animal (Bird)
+27725_1#104_1	Wild animal (Bird)
+27725_1#108_1	Farm animal
+27725_1#11_1	Wild animal (Bird)
+27725_1#112_1	Non-hospitalised person
+27725_1#116_1	Wild animal (Bird)
+27725_1#12_1	Hospitalised patient
+27725_1#120_1	Environment
+27725_1#124_1	Non-hospitalised person
+27725_1#128_1	Farm animal
+27725_1#132_1	Wild animal (Bird)
+27725_1#136_1	Farm animal
+27725_1#140_1	Wild animal (Bird)
+27725_1#144_1	Farm animal
+27725_1#148_1	Wild animal (Bird)
+27725_1#149_1	Wild animal (Bird)
+27725_1#15_1	Wild animal (Mammal)
+27725_1#153_1	Farm animal
+27725_1#157_1	Pet animal
+27725_1#16_1	Hospitalised patient
+27725_1#161_1	Hospitalised patient
+27725_1#165_1	Environment
+27725_1#169_1	Hospitalised patient
+27725_1#173_1	Hospitalised patient
+27725_1#178_1	Hospitalised patient
+27725_1#182_1	Hospitalised patient
+27725_1#186_1	Hospitalised patient
+27725_1#19_1	Wild animal (Mammal)
+27725_1#190_1	Hospitalised patient
+27725_1#194_1	Hospitalised patient
+27725_1#198_1	Hospitalised patient
+27725_1#20_1	Hospitalised patient
+27725_1#202_1	Hospitalised patient
+27725_1#206_1	Hospitalised patient
+27725_1#210_1	Hospitalised patient
+27725_1#214_1	Hospitalised patient
+27725_1#218_1	Hospitalised patient
+27725_1#222_1	Hospitalised patient
+27725_1#226_1	Hospitalised patient
+27725_1#23_1	Wild animal (Bird)
+27725_1#230_1	Hospitalised patient
+27725_1#234_1	Hospitalised patient
+27725_1#238_1	Hospitalised patient
+27725_1#24_1	Non-hospitalised person
+27725_1#242_1	Hospitalised patient
+27725_1#246_1	Hospitalised patient
+27725_1#250_1	Hospitalised patient
+27725_1#254_1	Hospitalised patient
+27725_1#258_1	Hospitalised patient
+27725_1#262_1	Hospitalised patient
+27725_1#267_1	Hospitalised patient
+27725_1#27_1	Wild animal (Bird)
+27725_1#271_1	Hospitalised patient
+27725_1#275_1	Hospitalised patient
+27725_1#279_1	Hospitalised patient
+27725_1#28_1	Hospitalised patient
+27725_1#283_1	Hospitalised patient
+27725_1#287_1	Hospitalised patient
+27725_1#291_1	Non-hospitalised person
+27725_1#295_1	Hospitalised patient
+27725_1#299_1	Non-hospitalised person
+27725_1#3_1	Wild animal (Mammal)
+27725_1#303_1	Non-hospitalised person
+27725_1#307_1	Non-hospitalised person
+27725_1#31_1	Wild animal (Mammal)
+27725_1#311_1	Hospitalised patient
+27725_1#315_1	Hospitalised patient
+27725_1#319_1	Hospitalised patient
+27725_1#32_1	Hospitalised patient
+27725_1#323_1	Hospitalised patient
+27725_1#327_1	Non-hospitalised person
+27725_1#331_1	Non-hospitalised person
+27725_1#335_1	Non-hospitalised person
+27725_1#339_1	Hospitalised patient
+27725_1#343_1	Hospitalised patient
+27725_1#347_1	Non-hospitalised person
+27725_1#35_1	Wild animal (Mammal)
+27725_1#351_1	Hospitalised patient
+27725_1#356_1	Hospitalised patient
+27725_1#36_1	Non-hospitalised person
+27725_1#360_1	Hospitalised patient
+27725_1#364_1	Hospitalised patient
+27725_1#368_1	Hospitalised patient
+27725_1#372_1	Hospitalised patient
+27725_1#376_1	Hospitalised patient
+27725_1#380_1	Non-hospitalised person
+27725_1#384_1	Hospitalised patient
+27725_1#39_1	Wild animal (Mammal)
+27725_1#4_1	Hospitalised patient
+27725_1#40_1	Hospitalised patient
+27725_1#43_1	Wild animal (Mammal)
+27725_1#44_1	Hospitalised patient
+27725_1#47_1	Wild animal (Bird)
+27725_1#51_1	Wild animal (Bird)
+27725_1#55_1	Wild animal (Mammal)
+27725_1#59_1	Wild animal (Mammal)
+27725_1#64_1	Wild animal (Bird)
+27725_1#68_1	Wild animal (Mammal)
+27725_1#7_1	Wild animal (Mammal)
+27725_1#72_1	Wild animal (Mammal)
+27725_1#76_1	Wild animal (Mammal)
+27725_1#8_1	Hospitalised patient
+27725_1#80_1	Wild animal (Mammal)
+27725_1#84_1	Wild animal (Bird)
+27725_1#88_1	Wild animal (Mammal)
+27725_1#92_1	Wild animal (Bird)
+27725_1#96_1	Wild animal (Bird)
+28099_2#1_1	Hospitalised patient
+28099_2#10_1	Hospitalised patient
+28099_2#100_1	Food product
+28099_2#102_1	Hospitalised patient
+28099_2#103_1	Hospitalised patient
+28099_2#104_1	Food product
+28099_2#106_1	Hospitalised patient
+28099_2#107_1	Hospitalised patient
+28099_2#108_1	Food product
+28099_2#11_1	Environment
+28099_2#110_1	Hospitalised patient
+28099_2#111_1	Hospitalised patient
+28099_2#112_1	Farm animal
+28099_2#114_1	Hospitalised patient
+28099_2#115_1	Environment
+28099_2#116_1	Environment
+28099_2#118_1	Hospitalised patient
+28099_2#119_1	Environment
+28099_2#122_1	Hospitalised patient
+28099_2#123_1	Environment
+28099_2#124_1	Hospitalised patient
+28099_2#125_1	Farm animal
+28099_2#127_1	Hospitalised patient
+28099_2#128_1	Farm animal
+28099_2#129_1	Outpatient
+28099_2#13_1	Non-hospitalised person
+28099_2#131_1	Hospitalised patient
+28099_2#132_1	Farm animal
+28099_2#133_1	Outpatient
+28099_2#135_1	Hospitalised patient
+28099_2#136_1	Farm animal
+28099_2#137_1	Outpatient
+28099_2#139_1	Hospitalised patient
+28099_2#14_1	Hospitalised patient
+28099_2#140_1	Farm animal
+28099_2#141_1	Non-hospitalised person
+28099_2#143_1	Hospitalised patient
+28099_2#144_1	Farm animal
+28099_2#145_1	Food product
+28099_2#147_1	Hospitalised patient
+28099_2#148_1	Farm animal
+28099_2#149_1	Environment
+28099_2#15_1	Hospitalised patient
+28099_2#151_1	Hospitalised patient
+28099_2#152_1	Farm animal
+28099_2#153_1	Food product
+28099_2#155_1	Hospitalised patient
+28099_2#156_1	NA
+28099_2#157_1	Environment
+28099_2#159_1	Hospitalised patient
+28099_2#160_1	Farm animal
+28099_2#161_1	Environment
+28099_2#163_1	Hospitalised patient
+28099_2#164_1	Farm animal
+28099_2#165_1	Environment
+28099_2#167_1	Hospitalised patient
+28099_2#168_1	Farm animal
+28099_2#169_1	Environment
+28099_2#17_1	Outpatient
+28099_2#171_1	Hospitalised patient
+28099_2#172_1	Non-hospitalised person
+28099_2#173_1	Environment
+28099_2#175_1	Hospitalised patient
+28099_2#176_1	Non-hospitalised person
+28099_2#177_1	Environment
+28099_2#179_1	Hospitalised patient
+28099_2#18_1	Hospitalised patient
+28099_2#180_1	Non-hospitalised person
+28099_2#181_1	Environment
+28099_2#183_1	Hospitalised patient
+28099_2#184_1	Environment
+28099_2#185_1	Environment
+28099_2#187_1	Hospitalised patient
+28099_2#188_1	Environment
+28099_2#189_1	Environment
+28099_2#19_1	Hospitalised patient
+28099_2#191_1	Hospitalised patient
+28099_2#192_1	Environment
+28099_2#193_1	Environment
+28099_2#195_1	Hospitalised patient
+28099_2#196_1	Environment
+28099_2#197_1	Environment
+28099_2#199_1	Hospitalised patient
+28099_2#2_1	Environment
+28099_2#200_1	Environment
+28099_2#201_1	Environment
+28099_2#203_1	Hospitalised patient
+28099_2#204_1	Environment
+28099_2#205_1	Environment
+28099_2#207_1	Hospitalised patient
+28099_2#208_1	Environment
+28099_2#209_1	Environment
+28099_2#21_1	Environment
+28099_2#211_1	Hospitalised patient
+28099_2#212_1	Environment
+28099_2#213_1	Environment
+28099_2#214_1	Environment
+28099_2#216_1	Hospitalised patient
+28099_2#217_1	Environment
+28099_2#218_1	Hospitalised patient
+28099_2#22_1	Hospitalised patient
+28099_2#220_1	Hospitalised patient
+28099_2#221_1	Environment
+28099_2#222_1	Environment
+28099_2#224_1	Hospitalised patient
+28099_2#225_1	Environment
+28099_2#226_1	Non-hospitalised person
+28099_2#228_1	Hospitalised patient
+28099_2#229_1	Environment
+28099_2#23_1	Hospitalised patient
+28099_2#230_1	Hospitalised patient
+28099_2#232_1	Hospitalised patient
+28099_2#233_1	Non-hospitalised person
+28099_2#234_1	Hospitalised patient
+28099_2#236_1	Hospitalised patient
+28099_2#237_1	Non-hospitalised person
+28099_2#238_1	Farm animal
+28099_2#240_1	Hospitalised patient
+28099_2#241_1	Non-hospitalised person
+28099_2#242_1	Farm animal
+28099_2#244_1	Hospitalised patient
+28099_2#245_1	Non-hospitalised person
+28099_2#246_1	Pet animal
+28099_2#248_1	Hospitalised patient
+28099_2#249_1	Non-hospitalised person
+28099_2#25_1	Farm animal
+28099_2#250_1	Farm animal
+28099_2#252_1	Hospitalised patient
+28099_2#253_1	Non-hospitalised person
+28099_2#254_1	Pet animal
+28099_2#256_1	Hospitalised patient
+28099_2#257_1	Hospitalised patient
+28099_2#258_1	Farm animal
+28099_2#26_1	Hospitalised patient
+28099_2#260_1	Hospitalised patient
+28099_2#261_1	Hospitalised patient
+28099_2#262_1	Farm animal
+28099_2#264_1	Hospitalised patient
+28099_2#265_1	Hospitalised patient
+28099_2#266_1	Farm animal
+28099_2#268_1	Hospitalised patient
+28099_2#269_1	Environment
+28099_2#27_1	Environment
+28099_2#270_1	Farm animal
+28099_2#272_1	Hospitalised patient
+28099_2#273_1	Environment
+28099_2#274_1	Farm animal
+28099_2#276_1	Hospitalised patient
+28099_2#277_1	Environment
+28099_2#278_1	NA
+28099_2#280_1	Hospitalised patient
+28099_2#281_1	Environment
+28099_2#282_1	Farm animal
+28099_2#284_1	Hospitalised patient
+28099_2#285_1	Hospitalised patient
+28099_2#286_1	Farm animal
+28099_2#288_1	Hospitalised patient
+28099_2#289_1	Food product
+28099_2#29_1	Hospitalised patient
+28099_2#290_1	Pet animal
+28099_2#292_1	Hospitalised patient
+28099_2#293_1	Food product
+28099_2#294_1	Farm animal
+28099_2#296_1	Hospitalised patient
+28099_2#297_1	Food product
+28099_2#298_1	Farm animal
+28099_2#30_1	Hospitalised patient
+28099_2#300_1	Hospitalised patient
+28099_2#301_1	Hospitalised patient
+28099_2#302_1	Food product
+28099_2#303_1	Pet animal
+28099_2#305_1	Hospitalised patient
+28099_2#306_1	Food product
+28099_2#307_1	Farm animal
+28099_2#309_1	Hospitalised patient
+28099_2#31_1	Non-hospitalised person
+28099_2#310_1	Food product
+28099_2#311_1	Pet animal
+28099_2#313_1	Hospitalised patient
+28099_2#314_1	Food product
+28099_2#315_1	Non-hospitalised person
+28099_2#317_1	Hospitalised patient
+28099_2#318_1	Food product
+28099_2#319_1	Non-hospitalised person
+28099_2#321_1	Hospitalised patient
+28099_2#322_1	Food product
+28099_2#323_1	Non-hospitalised person
+28099_2#324_1	Hospitalised patient
+28099_2#325_1	Hospitalised patient
+28099_2#326_1	Food product
+28099_2#327_1	Non-hospitalised person
+28099_2#328_1	Hospitalised patient
+28099_2#329_1	Hospitalised patient
+28099_2#33_1	Hospitalised patient
+28099_2#330_1	Food product
+28099_2#331_1	Environment
+28099_2#332_1	Hospitalised patient
+28099_2#333_1	Hospitalised patient
+28099_2#334_1	Food product
+28099_2#335_1	Environment
+28099_2#336_1	Pet animal
+28099_2#337_1	Hospitalised patient
+28099_2#338_1	Food product
+28099_2#339_1	Environment
+28099_2#34_1	Hospitalised patient
+28099_2#340_1	Farm animal
+28099_2#341_1	Hospitalised patient
+28099_2#342_1	Food product
+28099_2#343_1	Environment
+28099_2#344_1	Farm animal
+28099_2#345_1	Hospitalised patient
+28099_2#346_1	Food product
+28099_2#347_1	Environment
+28099_2#348_1	Farm animal
+28099_2#349_1	Hospitalised patient
+28099_2#35_1	Non-hospitalised person
+28099_2#350_1	Food product
+28099_2#351_1	Environment
+28099_2#352_1	Food product
+28099_2#353_1	Hospitalised patient
+28099_2#354_1	Food product
+28099_2#355_1	Environment
+28099_2#356_1	Non-hospitalised person
+28099_2#357_1	Hospitalised patient
+28099_2#358_1	Food product
+28099_2#359_1	Environment
+28099_2#360_1	Food product
+28099_2#361_1	Hospitalised patient
+28099_2#362_1	Food product
+28099_2#363_1	Environment
+28099_2#364_1	Environment
+28099_2#365_1	Hospitalised patient
+28099_2#366_1	Food product
+28099_2#367_1	Environment
+28099_2#368_1	Hospitalised patient
+28099_2#369_1	Hospitalised patient
+28099_2#37_1	Hospitalised patient
+28099_2#370_1	Food product
+28099_2#371_1	Environment
+28099_2#372_1	Non-hospitalised person
+28099_2#373_1	Hospitalised patient
+28099_2#374_1	Food product
+28099_2#375_1	Environment
+28099_2#376_1	Environment
+28099_2#377_1	Hospitalised patient
+28099_2#378_1	Food product
+28099_2#379_1	Environment
+28099_2#38_1	Hospitalised patient
+28099_2#380_1	Environment
+28099_2#381_1	Hospitalised patient
+28099_2#382_1	Environment
+28099_2#383_1	Hospitalised patient
+28099_2#384_1	Non-hospitalised person
+28099_2#39_1	Non-hospitalised person
+28099_2#4_1	Food product
+28099_2#41_1	Hospitalised patient
+28099_2#42_1	Hospitalised patient
+28099_2#43_1	Non-hospitalised person
+28099_2#45_1	Hospitalised patient
+28099_2#46_1	Hospitalised patient
+28099_2#47_1	Non-hospitalised person
+28099_2#49_1	Hospitalised patient
+28099_2#5_1	Non-hospitalised person
+28099_2#50_1	Hospitalised patient
+28099_2#51_1	Non-hospitalised person
+28099_2#53_1	Hospitalised patient
+28099_2#54_1	Hospitalised patient
+28099_2#55_1	Hospitalised patient
+28099_2#57_1	Hospitalised patient
+28099_2#58_1	Hospitalised patient
+28099_2#59_1	Hospitalised patient
+28099_2#6_1	Hospitalised patient
+28099_2#61_1	Hospitalised patient
+28099_2#62_1	Hospitalised patient
+28099_2#63_1	Farm animal
+28099_2#65_1	Hospitalised patient
+28099_2#66_1	Hospitalised patient
+28099_2#67_1	Farm animal
+28099_2#69_1	Hospitalised patient
+28099_2#7_1	Environment
+28099_2#70_1	Hospitalised patient
+28099_2#71_1	Hospitalised patient
+28099_2#73_1	Hospitalised patient
+28099_2#74_1	Hospitalised patient
+28099_2#75_1	Food product
+28099_2#77_1	Hospitalised patient
+28099_2#78_1	Hospitalised patient
+28099_2#79_1	Food product
+28099_2#81_1	Hospitalised patient
+28099_2#82_1	Hospitalised patient
+28099_2#83_1	Food product
+28099_2#85_1	Hospitalised patient
+28099_2#86_1	Hospitalised patient
+28099_2#87_1	Food product
+28099_2#89_1	Hospitalised patient
+28099_2#9_1	Non-hospitalised person
+28099_2#90_1	Hospitalised patient
+28099_2#91_1	Food product
+28099_2#93_1	Hospitalised patient
+28099_2#94_1	Hospitalised patient
+28099_2#95_1	Food product
+28099_2#98_1	Hospitalised patient
+28099_2#99_1	Hospitalised patient
+28157_4#1_1	Hospitalised patient
+28157_4#10_1	Food product
+28157_4#100_1	Hospitalised patient
+28157_4#101_1	Hospitalised patient
+28157_4#102_1	Hospitalised patient
+28157_4#103_1	Farm animal
+28157_4#104_1	Hospitalised patient
+28157_4#105_1	Food product
+28157_4#106_1	Hospitalised patient
+28157_4#107_1	Environment
+28157_4#108_1	Hospitalised patient
+28157_4#109_1	Food product
+28157_4#11_1	Environment
+28157_4#110_1	Outpatient
+28157_4#111_1	Environment
+28157_4#112_1	Hospitalised patient
+28157_4#113_1	Food product
+28157_4#114_1	Non-hospitalised person
+28157_4#115_1	Environment
+28157_4#116_1	Hospitalised patient
+28157_4#117_1	Food product
+28157_4#118_1	Outpatient
+28157_4#119_1	Environment
+28157_4#12_1	Food product
+28157_4#120_1	Hospitalised patient
+28157_4#121_1	Food product
+28157_4#122_1	Non-hospitalised person
+28157_4#123_1	Environment
+28157_4#124_1	Hospitalised patient
+28157_4#125_1	Food product
+28157_4#126_1	Non-hospitalised person
+28157_4#127_1	Environment
+28157_4#128_1	Hospitalised patient
+28157_4#129_1	Food product
+28157_4#13_1	Farm animal
+28157_4#130_1	Non-hospitalised person
+28157_4#131_1	Hospitalised patient
+28157_4#132_1	Hospitalised patient
+28157_4#133_1	Food product
+28157_4#134_1	Non-hospitalised person
+28157_4#135_1	Hospitalised patient
+28157_4#136_1	Hospitalised patient
+28157_4#137_1	Food product
+28157_4#138_1	Non-hospitalised person
+28157_4#139_1	Environment
+28157_4#140_1	Hospitalised patient
+28157_4#141_1	Food product
+28157_4#142_1	Non-hospitalised person
+28157_4#143_1	Hospitalised patient
+28157_4#144_1	Hospitalised patient
+28157_4#145_1	Food product
+28157_4#146_1	Non-hospitalised person
+28157_4#147_1	Hospitalised patient
+28157_4#148_1	Environment
+28157_4#149_1	Food product
+28157_4#15_1	Hospitalised patient
+28157_4#150_1	Environment
+28157_4#151_1	Farm animal
+28157_4#152_1	Non-hospitalised person
+28157_4#153_1	Food product
+28157_4#154_1	Environment
+28157_4#155_1	Farm animal
+28157_4#156_1	Non-hospitalised person
+28157_4#157_1	Non-hospitalised person
+28157_4#158_1	Food product
+28157_4#159_1	Environment
+28157_4#16_1	Food product
+28157_4#160_1	Farm animal
+28157_4#161_1	Environment
+28157_4#162_1	Food product
+28157_4#163_1	Environment
+28157_4#164_1	Farm animal
+28157_4#165_1	Environment
+28157_4#166_1	Food product
+28157_4#167_1	Environment
+28157_4#168_1	Environment
+28157_4#169_1	Environment
+28157_4#17_1	NA
+28157_4#170_1	Food product
+28157_4#171_1	Non-hospitalised person
+28157_4#172_1	Hospitalised patient
+28157_4#173_1	Food product
+28157_4#174_1	Food product
+28157_4#175_1	Non-hospitalised person
+28157_4#176_1	Environment
+28157_4#177_1	Food product
+28157_4#178_1	Food product
+28157_4#179_1	Non-hospitalised person
+28157_4#18_1	Food product
+28157_4#180_1	Hospitalised patient
+28157_4#181_1	Food product
+28157_4#182_1	Food product
+28157_4#183_1	Non-hospitalised person
+28157_4#184_1	Environment
+28157_4#185_1	Environment
+28157_4#186_1	Environment
+28157_4#187_1	Non-hospitalised person
+28157_4#188_1	Farm animal
+28157_4#189_1	Non-hospitalised person
+28157_4#190_1	Environment
+28157_4#191_1	Non-hospitalised person
+28157_4#192_1	Hospitalised patient
+28157_4#193_1	Environment
+28157_4#194_1	Environment
+28157_4#195_1	Non-hospitalised person
+28157_4#196_1	Hospitalised patient
+28157_4#197_1	Food product
+28157_4#198_1	Environment
+28157_4#199_1	Non-hospitalised person
+28157_4#2_1	Hospitalised patient
+28157_4#20_1	Food product
+28157_4#200_1	Hospitalised patient
+28157_4#201_1	Food product
+28157_4#202_1	Environment
+28157_4#203_1	Non-hospitalised person
+28157_4#204_1	Hospitalised patient
+28157_4#205_1	Non-hospitalised person
+28157_4#206_1	Environment
+28157_4#207_1	Non-hospitalised person
+28157_4#208_1	Hospitalised patient
+28157_4#209_1	Non-hospitalised person
+28157_4#21_1	NA
+28157_4#210_1	Hospitalised patient
+28157_4#211_1	NA
+28157_4#212_1	Farm animal
+28157_4#213_1	Non-hospitalised person
+28157_4#214_1	Hospitalised patient
+28157_4#215_1	Farm animal
+28157_4#216_1	Hospitalised patient
+28157_4#217_1	Non-hospitalised person
+28157_4#218_1	Hospitalised patient
+28157_4#219_1	Farm animal
+28157_4#22_1	Food product
+28157_4#220_1	Farm animal
+28157_4#221_1	Non-hospitalised person
+28157_4#222_1	Hospitalised patient
+28157_4#223_1	Hospitalised patient
+28157_4#224_1	Farm animal
+28157_4#225_1	Non-hospitalised person
+28157_4#226_1	Hospitalised patient
+28157_4#227_1	Non-hospitalised person
+28157_4#228_1	Hospitalised patient
+28157_4#229_1	Outpatient
+28157_4#23_1	Environment
+28157_4#230_1	Environment
+28157_4#231_1	Non-hospitalised person
+28157_4#232_1	Farm animal
+28157_4#233_1	Non-hospitalised person
+28157_4#234_1	Non-hospitalised person
+28157_4#235_1	Non-hospitalised person
+28157_4#236_1	Farm animal
+28157_4#237_1	Non-hospitalised person
+28157_4#238_1	Environment
+28157_4#239_1	Non-hospitalised person
+28157_4#24_1	Food product
+28157_4#240_1	Farm animal
+28157_4#241_1	Non-hospitalised person
+28157_4#242_1	Environment
+28157_4#243_1	Farm animal
+28157_4#244_1	Hospitalised patient
+28157_4#245_1	Non-hospitalised person
+28157_4#246_1	Environment
+28157_4#247_1	Farm animal
+28157_4#248_1	Environment
+28157_4#249_1	Farm animal
+28157_4#25_1	Farm animal
+28157_4#250_1	Non-hospitalised person
+28157_4#251_1	Environment
+28157_4#252_1	Farm animal
+28157_4#253_1	Environment
+28157_4#254_1	Non-hospitalised person
+28157_4#255_1	Environment
+28157_4#256_1	Farm animal
+28157_4#257_1	Hospitalised patient
+28157_4#258_1	Non-hospitalised person
+28157_4#259_1	Environment
+28157_4#26_1	Food product
+28157_4#260_1	Farm animal
+28157_4#261_1	Farm animal
+28157_4#262_1	Non-hospitalised person
+28157_4#263_1	Farm animal
+28157_4#264_1	Farm animal
+28157_4#265_1	Environment
+28157_4#266_1	Outpatient
+28157_4#267_1	Environment
+28157_4#268_1	Farm animal
+28157_4#269_1	Environment
+28157_4#27_1	Environment
+28157_4#270_1	NA
+28157_4#271_1	Environment
+28157_4#272_1	Farm animal
+28157_4#273_1	Environment
+28157_4#274_1	Outpatient
+28157_4#275_1	Environment
+28157_4#276_1	Farm animal
+28157_4#277_1	Farm animal
+28157_4#278_1	Environment
+28157_4#279_1	Non-hospitalised person
+28157_4#28_1	Food product
+28157_4#280_1	Environment
+28157_4#281_1	Farm animal
+28157_4#282_1	Environment
+28157_4#283_1	Outpatient
+28157_4#284_1	Environment
+28157_4#285_1	Farm animal
+28157_4#286_1	Environment
+28157_4#287_1	Non-hospitalised person
+28157_4#288_1	Environment
+28157_4#289_1	Farm animal
+28157_4#29_1	Environment
+28157_4#290_1	Farm animal
+28157_4#292_1	Environment
+28157_4#293_1	Farm animal
+28157_4#294_1	Environment
+28157_4#295_1	NA
+28157_4#296_1	NA
+28157_4#297_1	Farm animal
+28157_4#298_1	Non-hospitalised person
+28157_4#299_1	Non-hospitalised person
+28157_4#3_1	Farm animal
+28157_4#30_1	Food product
+28157_4#300_1	NA
+28157_4#301_1	Farm animal
+28157_4#302_1	Hospitalised patient
+28157_4#303_1	Non-hospitalised person
+28157_4#304_1	NA
+28157_4#305_1	Farm animal
+28157_4#306_1	Food product
+28157_4#307_1	Non-hospitalised person
+28157_4#308_1	Hospitalised patient
+28157_4#309_1	Farm animal
+28157_4#31_1	Farm animal
+28157_4#310_1	Food product
+28157_4#311_1	Non-hospitalised person
+28157_4#312_1	Environment
+28157_4#313_1	Farm animal
+28157_4#314_1	Food product
+28157_4#315_1	Non-hospitalised person
+28157_4#316_1	NA
+28157_4#317_1	Food product
+28157_4#318_1	Food product
+28157_4#319_1	Non-hospitalised person
+28157_4#32_1	Food product
+28157_4#320_1	Food product
+28157_4#321_1	Non-hospitalised person
+28157_4#322_1	Food product
+28157_4#323_1	Non-hospitalised person
+28157_4#324_1	Food product
+28157_4#325_1	Non-hospitalised person
+28157_4#326_1	Food product
+28157_4#327_1	Non-hospitalised person
+28157_4#328_1	Food product
+28157_4#329_1	Non-hospitalised person 
+28157_4#33_1	Environment
+28157_4#330_1	Food product
+28157_4#331_1	Non-hospitalised person
+28157_4#332_1	Environment
+28157_4#334_1	Food product
+28157_4#335_1	Non-hospitalised person
+28157_4#336_1	Environment
+28157_4#338_1	Food product
+28157_4#339_1	Non-hospitalised person
+28157_4#34_1	Environment
+28157_4#340_1	Environment
+28157_4#342_1	Food product
+28157_4#343_1	Non-hospitalised person
+28157_4#344_1	Food product
+28157_4#346_1	Food product
+28157_4#347_1	Non-hospitalised person
+28157_4#348_1	Food product
+28157_4#35_1	Hospitalised patient
+28157_4#350_1	Hospitalised patient
+28157_4#351_1	Non-hospitalised person
+28157_4#352_1	Food product
+28157_4#354_1	Hospitalised patient
+28157_4#355_1	Non-hospitalised person
+28157_4#356_1	Food product
+28157_4#358_1	Hospitalised patient
+28157_4#359_1	Non-hospitalised person
+28157_4#36_1	Food product
+28157_4#360_1	Food product
+28157_4#362_1	Hospitalised patient
+28157_4#363_1	Non-hospitalised person
+28157_4#364_1	Food product
+28157_4#365_1	Hospitalised patient
+28157_4#367_1	Environment
+28157_4#368_1	Non-hospitalised person
+28157_4#369_1	Hospitalised patient
+28157_4#37_1	Hospitalised patient
+28157_4#371_1	Hospitalised patient
+28157_4#372_1	Non-hospitalised person
+28157_4#373_1	Hospitalised patient
+28157_4#375_1	Hospitalised patient
+28157_4#376_1	Non-hospitalised person
+28157_4#377_1	Hospitalised patient
+28157_4#379_1	Hospitalised patient
+28157_4#38_1	Non-hospitalised person
+28157_4#380_1	Non-hospitalised person
+28157_4#381_1	Hospitalised patient
+28157_4#383_1	Environment
+28157_4#384_1	Non-hospitalised person
+28157_4#39_1	Hospitalised patient
+28157_4#4_1	Non-hospitalised person
+28157_4#40_1	Food product
+28157_4#41_1	Hospitalised patient
+28157_4#42_1	Environment
+28157_4#43_1	Hospitalised patient
+28157_4#44_1	Hospitalised patient
+28157_4#45_1	Farm animal
+28157_4#46_1	Food product
+28157_4#47_1	Hospitalised patient
+28157_4#48_1	Hospitalised patient
+28157_4#49_1	Hospitalised patient
+28157_4#5_1	Farm animal
+28157_4#50_1	Environment
+28157_4#51_1	Hospitalised patient
+28157_4#52_1	Environment
+28157_4#53_1	Outpatient
+28157_4#54_1	Environment
+28157_4#55_1	Hospitalised patient
+28157_4#56_1	Food product
+28157_4#57_1	Hospitalised patient
+28157_4#58_1	Environment
+28157_4#59_1	Hospitalised patient
+28157_4#6_1	Pet animal
+28157_4#60_1	Food product
+28157_4#61_1	Hospitalised patient
+28157_4#62_1	Environment
+28157_4#63_1	Hospitalised patient
+28157_4#64_1	Food product
+28157_4#65_1	Hospitalised patient
+28157_4#66_1	Environment
+28157_4#67_1	Hospitalised patient
+28157_4#68_1	Non-hospitalised person
+28157_4#69_1	Non-hospitalised person
+28157_4#7_1	Environment
+28157_4#70_1	Hospitalised patient
+28157_4#71_1	Environment
+28157_4#72_1	Hospitalised patient
+28157_4#73_1	Food product
+28157_4#74_1	Hospitalised patient
+28157_4#75_1	Environment
+28157_4#76_1	Hospitalised patient
+28157_4#77_1	Food product
+28157_4#78_1	Hospitalised patient
+28157_4#79_1	Environment
+28157_4#8_1	Non-hospitalised person
+28157_4#80_1	Hospitalised patient
+28157_4#81_1	Food product
+28157_4#82_1	Hospitalised patient
+28157_4#83_1	Farm animal
+28157_4#84_1	Hospitalised patient
+28157_4#85_1	Food product
+28157_4#86_1	Hospitalised patient
+28157_4#87_1	Farm animal
+28157_4#88_1	Hospitalised patient
+28157_4#89_1	Food product
+28157_4#9_1	Farm animal
+28157_4#90_1	Hospitalised patient
+28157_4#91_1	Environment
+28157_4#92_1	Hospitalised patient
+28157_4#93_1	Hospitalised patient
+28157_4#94_1	Hospitalised patient
+28157_4#95_1	Farm animal
+28157_4#96_1	Hospitalised patient
+28157_4#97_1	Hospitalised patient
+28157_4#98_1	Hospitalised patient
+28157_4#99_1	Environment
+28832_2#10_1	Non-hospitalised person
+28832_2#102_1	Hospitalised patient
+28832_2#103_1	Non-hospitalised person
+28832_2#106_1	Hospitalised patient
+28832_2#107_1	Non-hospitalised person
+28832_2#11_1	Non-hospitalised person
+28832_2#111_1	Hospitalised patient
+28832_2#112_1	Non-hospitalised person
+28832_2#115_1	Hospitalised patient
+28832_2#116_1	Non-hospitalised person
+28832_2#119_1	Hospitalised patient
+28832_2#120_1	Non-hospitalised person
+28832_2#123_1	Hospitalised patient
+28832_2#124_1	Non-hospitalised person
+28832_2#127_1	Hospitalised patient
+28832_2#128_1	Non-hospitalised person
+28832_2#13_1	Hospitalised patient
+28832_2#131_1	Hospitalised patient
+28832_2#132_1	Non-hospitalised person
+28832_2#135_1	Hospitalised patient
+28832_2#136_1	Non-hospitalised person
+28832_2#139_1	Hospitalised patient
+28832_2#14_1	Non-hospitalised person
+28832_2#140_1	Non-hospitalised person
+28832_2#143_1	Hospitalised patient
+28832_2#144_1	Non-hospitalised person
+28832_2#147_1	Hospitalised patient
+28832_2#148_1	Non-hospitalised person
+28832_2#151_1	Hospitalised patient
+28832_2#152_1	Non-hospitalised person
+28832_2#155_1	Hospitalised patient
+28832_2#156_1	Non-hospitalised person
+28832_2#159_1	Hospitalised patient
+28832_2#160_1	Non-hospitalised person
+28832_2#163_1	Hospitalised patient
+28832_2#164_1	Non-hospitalised person
+28832_2#167_1	Hospitalised patient
+28832_2#168_1	Non-hospitalised person
+28832_2#171_1	Hospitalised patient
+28832_2#172_1	Non-hospitalised person
+28832_2#175_1	Hospitalised patient
+28832_2#176_1	Non-hospitalised person
+28832_2#179_1	Hospitalised patient
+28832_2#18_1	Hospitalised patient
+28832_2#180_1	Non-hospitalised person
+28832_2#183_1	Hospitalised patient
+28832_2#187_1	Hospitalised patient
+28832_2#188_1	Non-hospitalised person
+28832_2#191_1	Hospitalised patient
+28832_2#192_1	Non-hospitalised person
+28832_2#195_1	Hospitalised patient
+28832_2#196_1	Non-hospitalised person
+28832_2#199_1	Hospitalised patient
+28832_2#2_1	Non-hospitalised person
+28832_2#200_1	Non-hospitalised person
+28832_2#201_1	Non-hospitalised person
+28832_2#204_1	Hospitalised patient
+28832_2#205_1	Non-hospitalised person
+28832_2#208_1	Hospitalised patient
+28832_2#209_1	Non-hospitalised person
+28832_2#212_1	Hospitalised patient
+28832_2#213_1	Non-hospitalised person
+28832_2#216_1	Hospitalised patient
+28832_2#22_1	Hospitalised patient
+28832_2#220_1	Hospitalised patient
+28832_2#221_1	Non-hospitalised person
+28832_2#224_1	Hospitalised patient
+28832_2#225_1	Non-hospitalised person
+28832_2#228_1	Hospitalised patient
+28832_2#229_1	Non-hospitalised person
+28832_2#23_1	Non-hospitalised person
+28832_2#232_1	Hospitalised patient
+28832_2#233_1	Non-hospitalised person
+28832_2#236_1	Hospitalised patient
+28832_2#237_1	Non-hospitalised person
+28832_2#240_1	Hospitalised patient
+28832_2#241_1	Non-hospitalised person
+28832_2#244_1	Hospitalised patient
+28832_2#245_1	Non-hospitalised person
+28832_2#248_1	Hospitalised patient
+28832_2#249_1	Non-hospitalised person
+28832_2#252_1	Hospitalised patient
+28832_2#253_1	Hospitalised patient
+28832_2#256_1	Hospitalised patient
+28832_2#257_1	Hospitalised patient
+28832_2#26_1	Hospitalised patient
+28832_2#260_1	Non-hospitalised person
+28832_2#261_1	Hospitalised patient
+28832_2#264_1	Non-hospitalised person
+28832_2#265_1	Hospitalised patient
+28832_2#268_1	Non-hospitalised person
+28832_2#269_1	Hospitalised patient
+28832_2#27_1	Non-hospitalised person
+28832_2#272_1	Non-hospitalised person
+28832_2#273_1	Hospitalised patient
+28832_2#276_1	Non-hospitalised person
+28832_2#277_1	Hospitalised patient
+28832_2#280_1	Non-hospitalised person
+28832_2#281_1	Hospitalised patient
+28832_2#284_1	Non-hospitalised person
+28832_2#285_1	Hospitalised patient
+28832_2#288_1	Non-hospitalised person
+28832_2#289_1	Non-hospitalised person
+28832_2#290_1	Hospitalised patient
+28832_2#293_1	Non-hospitalised person
+28832_2#294_1	Hospitalised patient
+28832_2#297_1	Non-hospitalised person
+28832_2#298_1	Hospitalised patient
+28832_2#3_1	Hospitalised patient
+28832_2#30_1	Hospitalised patient
+28832_2#301_1	Non-hospitalised person
+28832_2#302_1	Hospitalised patient
+28832_2#305_1	Non-hospitalised person
+28832_2#306_1	Hospitalised patient
+28832_2#309_1	Non-hospitalised person
+28832_2#31_1	Non-hospitalised person
+28832_2#310_1	Hospitalised patient
+28832_2#313_1	Non-hospitalised person
+28832_2#314_1	Hospitalised patient
+28832_2#318_1	Non-hospitalised person
+28832_2#319_1	Hospitalised patient
+28832_2#322_1	Non-hospitalised person
+28832_2#323_1	Hospitalised patient
+28832_2#326_1	Non-hospitalised person
+28832_2#327_1	Hospitalised patient
+28832_2#330_1	Non-hospitalised person
+28832_2#331_1	Hospitalised patient
+28832_2#334_1	Non-hospitalised person
+28832_2#335_1	Hospitalised patient
+28832_2#338_1	Non-hospitalised person
+28832_2#339_1	Hospitalised patient
+28832_2#34_1	Hospitalised patient
+28832_2#342_1	Non-hospitalised person
+28832_2#343_1	Hospitalised patient
+28832_2#346_1	Non-hospitalised person
+28832_2#347_1	Hospitalised patient
+28832_2#35_1	Non-hospitalised person
+28832_2#350_1	Non-hospitalised person
+28832_2#351_1	Hospitalised patient
+28832_2#354_1	Non-hospitalised person
+28832_2#355_1	Hospitalised patient
+28832_2#358_1	Non-hospitalised person
+28832_2#359_1	Hospitalised patient
+28832_2#362_1	Non-hospitalised person
+28832_2#363_1	Hospitalised patient
+28832_2#366_1	Non-hospitalised person
+28832_2#367_1	Hospitalised patient
+28832_2#370_1	Non-hospitalised person
+28832_2#371_1	Hospitalised patient
+28832_2#374_1	Non-hospitalised person
+28832_2#375_1	Hospitalised patient
+28832_2#378_1	Non-hospitalised person
+28832_2#379_1	Hospitalised patient
+28832_2#38_1	Hospitalised patient
+28832_2#382_1	Non-hospitalised person
+28832_2#383_1	Hospitalised patient
+28832_2#39_1	Non-hospitalised person
+28832_2#42_1	Hospitalised patient
+28832_2#46_1	Hospitalised patient
+28832_2#47_1	Non-hospitalised person
+28832_2#50_1	Hospitalised patient
+28832_2#51_1	Non-hospitalised person
+28832_2#54_1	Hospitalised patient
+28832_2#55_1	Non-hospitalised person
+28832_2#58_1	Hospitalised patient
+28832_2#59_1	Non-hospitalised person
+28832_2#6_1	Non-hospitalised person
+28832_2#62_1	Hospitalised patient
+28832_2#63_1	Non-hospitalised person
+28832_2#66_1	Hospitalised patient
+28832_2#67_1	Non-hospitalised person
+28832_2#7_1	Hospitalised patient
+28832_2#70_1	Hospitalised patient
+28832_2#71_1	Non-hospitalised person
+28832_2#74_1	Hospitalised patient
+28832_2#75_1	Non-hospitalised person
+28832_2#78_1	Hospitalised patient
+28832_2#79_1	Non-hospitalised person
+28832_2#82_1	Hospitalised patient
+28832_2#83_1	Non-hospitalised person
+28832_2#86_1	Hospitalised patient
+28832_2#87_1	Non-hospitalised person
+28832_2#90_1	Hospitalised patient
+28832_2#91_1	Non-hospitalised person
+28832_2#94_1	Hospitalised patient
+28832_2#95_1	Non-hospitalised person
+28832_2#98_1	Hospitalised patient
+28832_2#99_1	Non-hospitalised person
+29594_2#100_1	Hospitalised patient
+29594_2#103_1	Non-hospitalised person
+29594_2#104_1	Non-hospitalised person
+29594_2#107_1	Non-hospitalised person
+29594_2#109_1	Non-hospitalised person
+29594_2#111_1	Non-hospitalised person
+29594_2#113_1	Hospitalised patient
+29594_2#115_1	Non-hospitalised person
+29594_2#117_1	Hospitalised patient
+29594_2#119_1	Non-hospitalised person
+29594_2#121_1	Non-hospitalised person
+29594_2#123_1	Non-hospitalised person
+29594_2#125_1	Non-hospitalised person
+29594_2#126_1	Non-hospitalised person
+29594_2#129_1	Hospitalised patient
+29594_2#130_1	Non-hospitalised person
+29594_2#135_1	Food product
+29594_2#136_1	Non-hospitalised person
+29594_2#140_1	Non-hospitalised person
+29594_2#144_1	NA
+29594_2#146_1	Non-hospitalised person
+29594_2#149_1	Non-hospitalised person
+29594_2#15_1	Hospitalised patient
+29594_2#153_1	Non-hospitalised person
+29594_2#155_1	Hospitalised patient
+29594_2#158_1	Non-hospitalised person
+29594_2#16_1	Non-hospitalised person
+29594_2#160_1	Non-hospitalised person
+29594_2#162_1	Non-hospitalised person
+29594_2#163_1	Non-hospitalised person
+29594_2#166_1	Non-hospitalised person
+29594_2#167_1	Non-hospitalised person
+29594_2#170_1	Food product
+29594_2#171_1	Hospitalised patient
+29594_2#174_1	Non-hospitalised person
+29594_2#175_1	Non-hospitalised person
+29594_2#179_1	Non-hospitalised person
+29594_2#18_1	Non-hospitalised person
+29594_2#182_1	Non-hospitalised person
+29594_2#185_1	Non-hospitalised person
+29594_2#187_1	Hospitalised patient
+29594_2#20_1	Non-hospitalised person
+29594_2#24_1	Non-hospitalised person
+29594_2#26_1	Lab strain
+29594_2#27_1	Hospitalised patient
+29594_2#28_1	Non-hospitalised person
+29594_2#30_1	Non-hospitalised person
+29594_2#33_1	Non-hospitalised person
+29594_2#34_1	Non-hospitalised person
+29594_2#38_1	Non-hospitalised person
+29594_2#39_1	Lab strain
+29594_2#40_1	Hospitalised patient
+29594_2#41_1	Non-hospitalised person
+29594_2#42_1	Non-hospitalised person
+29594_2#43_1	Non-hospitalised person
+29594_2#44_1	Non-hospitalised person
+29594_2#45_1	Non-hospitalised person
+29594_2#46_1	Non-hospitalised person
+29594_2#48_1	Hospitalised patient
+29594_2#50_1	Hospitalised patient
+29594_2#51_1	Non-hospitalised person
+29594_2#52_1	Non-hospitalised person
+29594_2#53_1	Non-hospitalised person
+29594_2#55_1	Non-hospitalised person
+29594_2#56_1	Non-hospitalised person
+29594_2#58_1	Non-hospitalised person
+29594_2#60_1	Hospitalised patient
+29594_2#63_1	Non-hospitalised person
+29594_2#67_1	Non-hospitalised person
+29594_2#71_1	Non-hospitalised person
+29594_2#73_1	Non-hospitalised person
+29594_2#75_1	Non-hospitalised person
+29594_2#77_1	Non-hospitalised person
+29594_2#79_1	Non-hospitalised person
+29594_2#81_1	Non-hospitalised person
+29594_2#84_1	Non-hospitalised person
+29594_2#86_1	Non-hospitalised person
+29594_2#89_1	Non-hospitalised person
+29594_2#90_1	Non-hospitalised person
+29594_2#94_1	Non-hospitalised person
+29594_2#95_1	Non-hospitalised person
+29594_2#99_1	Non-hospitalised person

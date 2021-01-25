@@ -118,7 +118,7 @@ Fn.old <- ecdf(rel.freq.old[rel.freq.old > 0.01 & rel.freq.old < 0.99])
 Fn.food <- ecdf(rel.freq.food[rel.freq.food > 0.01 & rel.freq.food < 0.99])
 
 # plot
-plot(Fn.env, col = "yellowgreen", pch=20, main = "c. Empirical cumulative distribution function (CDF) \n for major E. faecalis hosts \n (gene frequencies 0.01-0.99)", xlab = "Empirical CDF", ylab = "ecdf(x)")
+plot(Fn.env, col = "yellowgreen", pch=20, main = "c. Empirical cumulative distribution function (CDF) \n for major E. faecalis hosts \n (gene frequencies 0.01-0.99)", xlab = "Frequency", ylab = "ecdf(x)")
 lines(Fn.farm, col = "hotpink", pch=20)
 lines(Fn.patient, col = "red2", pch=20)
 lines(Fn.healthy, col = "darkturquoise", pch=20)
@@ -390,7 +390,7 @@ Fn.other <- ecdf(rel.freq.other[rel.freq.other > 0.01 & rel.freq.other < 0.99])
 
 # plot
 
-plot(Fn.patient, col = "red2", main = "c. Empirical cumulative distribution function (CDF) \n for E. faecium hosts \n (gene frequencies 0.01-0.99)", xlab = "Empirical CDF", ylab = "ecdf(x)")
+plot(Fn.patient, col = "red2", main = "c. Empirical cumulative distribution function (CDF) \n for E. faecium hosts \n (gene frequencies 0.01-0.99)", xlab = "Frequency", ylab = "ecdf(x)")
 lines(Fn.other, col = "gray")
 lines(Fn.healthy, col = "darkturquoise")
 legend(0.4, 0.4, legend=c("Hospitalised patient", "Non-hospitalised person", "Others"), col=c("red","darkturquoise", "gray"), pch=20, cex=1.0)
